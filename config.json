@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {"url": "https://www.hardgamers.com.ar/deals?limit=54&sort=discount&order=-1", "pages": 3},
+    {"url": "https://www.hardgamers.com.ar/search?category=memorias-ram&limit=54&text=ddr5", "pages": 6},
+    {"url": "https://www.hardgamers.com.ar/search?category=placas-de-video&limit=54&text=9070", "pages": 2},
+    {"url": "https://www.hardgamers.com.ar/search?category=placas-de-video&limit=54&text=9060", "pages": 2},
+    {"url": "https://www.hardgamers.com.ar/search?category=placas-de-video&limit=54&text=5060", "pages": 4},
+    {"url": "https://www.hardgamers.com.ar/search?category=placas-de-video&limit=54&text=5060+ti", "pages": 3},
+    {"url": "https://www.hardgamers.com.ar/search?category=placas-de-video&limit=54&text=5070", "pages": 2},
+    {"url": "https://www.hardgamers.com.ar/search?category=fuentes&limit=54&sort=discount&order=-1", "pages": 3},
+    {"url": "https://www.hardgamers.com.ar/search?category=refrigeracion&limit=54&sort=discount&order=-1", "pages": 3}
+  ],
+  "min_discount_percent": 30,
+  "ram_max_ratio_of_median": 0.6,
+  "gpu_max_ratio_of_median": 0.85,
+  "ram_max_price": 150000,
+  "min_samples_for_median": 3,
+  "drop_since_last_percent": 25,
+  "max_alerts_per_run": 20,
+  "mention": null
+}
