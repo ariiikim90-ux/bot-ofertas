@@ -2,7 +2,7 @@ name: Ofertas Hardgamers
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/6 * * * *"
   workflow_dispatch:
 
 permissions:
