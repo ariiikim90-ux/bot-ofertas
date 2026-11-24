@@ -17,22 +17,22 @@
  "slotOne:7g675q": {
   "price": 211792.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:ldpbpi": {
   "price": 148426.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:5901969444353": {
   "price": 51766.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:5901969445374": {
   "price": 46547.0,
   "alerted": 46274.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:EN47190": {
   "price": 45672.0,
@@ -42,7 +42,7 @@
  "maximus:FAN-SUPERNOVA": {
   "price": 9978.0,
   "alerted": 9923.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:Lovingcool-LC-X1210W-White": {
   "price": 42525.0,
@@ -50,19 +50,19 @@
   "seen": 1793394050
  },
  "maxTecno:36ueb7": {
-  "price": 1446931.0,
+  "price": 1451453.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:g4ijww": {
-  "price": 1231821.0,
+  "price": 1235670.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:5901969425307": {
   "price": 100505.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:5901969444537": {
   "price": 105505.0,
@@ -72,7 +72,7 @@
  "maximus:5901969444544": {
   "price": 105505.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:5901969449389": {
   "price": 76896.0,
@@ -82,17 +82,17 @@
  "slotOne:gkk83f": {
   "price": 198077.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:a57232": {
   "price": 210000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:u19j2j": {
   "price": 221969.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:17358": {
   "price": 216719.0,
@@ -102,12 +102,12 @@
  "hydraxtreme:cskjwf": {
   "price": 210000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:t7hv7k": {
   "price": 303949.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:2a1b9b": {
   "price": 229600.0,
@@ -115,24 +115,24 @@
   "seen": 1795501461
  },
  "enjoyComputer:wc-34202": {
-  "price": 252180.0,
+  "price": 253710.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:nk6psg": {
   "price": 249990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:k56ve2": {
   "price": 311040.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:gp2p36": {
   "price": 254789.0,
   "alerted": 225452.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:wggfkz": {
   "price": 235890.0,
@@ -142,27 +142,27 @@
  "gamingCity:18630": {
   "price": 260100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:csjjc8": {
   "price": 262239.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM703": {
-  "price": 259989.0,
+  "price": 260801.0,
   "alerted": 242.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM675": {
-  "price": 240704.0,
+  "price": 241456.0,
   "alerted": 223.0,
-  "seen": 1795364553
+  "seen": 1795543689
  },
  "hardcore:wc-98043": {
-  "price": 264825.0,
+  "price": 267300.0,
   "alerted": 165.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:PSD58G560082": {
   "price": 243494.0,
@@ -172,27 +172,27 @@
  "silverHard:oe6rdb": {
   "price": 244384.0,
   "alerted": 234456.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvtudp": {
   "price": 266445.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:487xf6": {
   "price": 266445.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvwzrc": {
   "price": 234000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:a68tzn": {
   "price": 234000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:ngh4yu": {
   "price": 240570.0,
@@ -202,32 +202,32 @@
  "silverHard:ufdqit": {
   "price": 249058.0,
   "alerted": 238958.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM721": {
-  "price": 249372.0,
+  "price": 250151.0,
   "alerted": 240.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-109743": {
-  "price": 268035.0,
+  "price": 270540.0,
   "alerted": 167.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:ki63mk": {
   "price": 264990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:6s8l76": {
-  "price": 251450.0,
+  "price": 253800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32463": {
-  "price": 251350.0,
+  "price": 252920.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvefr7": {
   "price": 246062.0,
@@ -245,9 +245,9 @@
   "seen": 1793500821
  },
  "amonpulTeam:iar9u3": {
-  "price": 251615.0,
+  "price": 253187.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:he1mj0": {
   "price": 263322.0,
@@ -255,39 +255,39 @@
   "seen": 1795170317
  },
  "scpHardStore:MEM957": {
-  "price": 254141.0,
+  "price": 254935.0,
   "alerted": 245.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:76dlf3": {
-  "price": 277790.0,
+  "price": 278659.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "liontech:o98od4": {
   "price": 246000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-81889": {
-  "price": 280875.0,
+  "price": 283500.0,
   "alerted": 160.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:93pmjc": {
-  "price": 257240.0,
+  "price": 258790.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:1ar5rd": {
   "price": 292405.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:13641": {
-  "price": 256590.0,
+  "price": 265500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:v3931x": {
   "price": 263322.0,
@@ -295,14 +295,14 @@
   "seen": 1795170317
  },
  "amonpulTeam:vvlnmb": {
-  "price": 300948.0,
+  "price": 302829.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:740617332841": {
-  "price": 265102.0,
+  "price": 265906.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvyaiw": {
   "price": 230880.0,
@@ -315,54 +315,54 @@
   "seen": 1795019177
  },
  "hardloots:d5i6va": {
-  "price": 256629.0,
+  "price": 259035.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:sj8h5c": {
-  "price": 256629.0,
+  "price": 259035.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:n17kfr": {
   "price": 259009.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:qd39nj": {
   "price": 259009.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:8s65sn": {
   "price": 258482.0,
   "alerted": 256837.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:uvsljn": {
   "price": 258482.0,
   "alerted": 256837.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "spaceVideojuegos:j6g8ts": {
   "price": 269000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:wleyu": {
   "price": 261220.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:hne6sp": {
   "price": 251816.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:o1ch7x": {
   "price": 251816.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:ocyp9a": {
   "price": 273704.0,
@@ -370,54 +370,54 @@
   "seen": 1795170317
  },
  "gamerfactory:cdfair": {
-  "price": 288200.0,
+  "price": 289100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM706": {
-  "price": 263757.0,
+  "price": 264581.0,
   "alerted": 254.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM707": {
-  "price": 263757.0,
+  "price": 264581.0,
   "alerted": 254.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:ws13y1": {
   "price": 295504.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-30867": {
-  "price": 266040.0,
+  "price": 268460.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-30868": {
-  "price": 266040.0,
+  "price": 268460.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:ho809p": {
-  "price": 266750.0,
+  "price": 269250.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "spaceVideojuegos:xii1v5": {
   "price": 278000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:c1xzo9": {
-  "price": 268100.0,
+  "price": 268900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:2l9nv9": {
-  "price": 269889.0,
+  "price": 273279.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:CMK8GX5M1B5200C40": {
   "price": 271260.0,
@@ -425,24 +425,24 @@
   "seen": 1793176126
  },
  "gorilaGames:4k4lgb": {
-  "price": 281450.0,
+  "price": 284100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:z3edhf": {
   "price": 278400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:8c7hz0": {
-  "price": 269602.0,
+  "price": 271288.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:cmhv2n": {
-  "price": 269602.0,
+  "price": 271288.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:7403tl": {
   "price": 278423.0,
@@ -450,19 +450,19 @@
   "seen": 1795170317
  },
  "mmcomputacion:369ja1": {
-  "price": 275300.0,
+  "price": 277900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bithard:8z3gp": {
   "price": 270886.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bithard:t3eaht": {
   "price": 270886.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "integradosargentinos:124083": {
   "price": 269900.0,
@@ -477,17 +477,17 @@
  "shopGamer:vvjpi8": {
   "price": 300138.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:b2vbba": {
-  "price": 273381.0,
+  "price": 275944.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:3nq41e": {
   "price": 303319.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:fwbujm": {
   "price": 290808.0,
@@ -497,7 +497,7 @@
  "black:197639": {
   "price": 308982.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:9p87zl": {
   "price": 289080.0,
@@ -507,17 +507,17 @@
  "hypergaming:o3kt5y": {
   "price": 285000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvegec": {
   "price": 280387.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:NFO-2153": {
   "price": 33359.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:PC-ML1-ARMADA-GAMER": {
   "price": 422496.0,
@@ -527,7 +527,7 @@
  "maximus:GV-N5060WF2MAX-OC-8GD": {
   "price": 963350.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:PC-ML13-ARMADA-GAMER": {
   "price": 1269623.0,
@@ -537,92 +537,92 @@
  "xtpc:9dgt5d": {
   "price": 280387.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:w23nen": {
   "price": 275775.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:3mtoj0": {
-  "price": 278014.0,
+  "price": 278883.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:zhss39": {
-  "price": 278014.0,
+  "price": 278883.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:10480j": {
-  "price": 278000.0,
+  "price": 280600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:hcev8c": {
-  "price": 278000.0,
+  "price": 280600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dveged": {
   "price": 280387.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:iedqmu": {
   "price": 280387.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:8cvzzc": {
   "price": 284978.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:qsong3": {
-  "price": 295349.0,
+  "price": 296272.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:pbw2jz": {
   "price": 293260.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:37417": {
-  "price": 285000.0,
+  "price": 286000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:37419": {
-  "price": 285000.0,
+  "price": 286000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:v2ezia": {
   "price": 284978.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:arch09": {
-  "price": 323369.0,
+  "price": 326401.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:29jzg5": {
-  "price": 349532.0,
+  "price": 352809.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:d6lgth": {
   "price": 318214.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:wbgd7y": {
   "price": 315198.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:do3nb1": {
   "price": 318800.0,
@@ -630,59 +630,59 @@
   "seen": 1795473365
  },
  "amonpulTeam:vdl978": {
-  "price": 321634.0,
+  "price": 324649.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM657": {
-  "price": 321630.0,
+  "price": 322635.0,
   "alerted": 321.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:kwxqdl": {
-  "price": 268630.0,
+  "price": 270270.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:l8f183": {
-  "price": 268630.0,
+  "price": 270270.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:b8dyws": {
-  "price": 323369.0,
+  "price": 325391.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:vja0rv": {
-  "price": 347652.0,
+  "price": 350911.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:lh371o": {
   "price": 319990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:1s9a89": {
-  "price": 325649.0,
+  "price": 329749.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:r9x02w": {
-  "price": 349532.0,
+  "price": 351717.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:v01qjy": {
   "price": 354209.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:1zg8lo": {
-  "price": 328200.0,
+  "price": 329200.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:w6pdug": {
   "price": 344749.0,
@@ -690,269 +690,269 @@
   "seen": 1794809950
  },
  "katech:23827q": {
-  "price": 321950.0,
+  "price": 323560.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:740617332841": {
   "price": 317750.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:uijsl4": {
-  "price": 336119.0,
+  "price": 337169.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:kkbaam": {
-  "price": 324750.0,
+  "price": 327800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197743": {
   "price": 338678.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:KF560C36BBE-8": {
   "price": 393947.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:6904": {
-  "price": 357999.0,
+  "price": 365999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197744": {
   "price": 346639.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvtucu": {
   "price": 339017.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:b1rtjq": {
   "price": 339017.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:gqjb31": {
   "price": 373702.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvuiwg": {
   "price": 340352.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:ehwh39": {
   "price": 340352.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:238983": {
   "price": 341765.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:i819q8": {
-  "price": 342400.0,
+  "price": 345600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:i3zcis": {
-  "price": 265700.0,
+  "price": 266600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:p46pka": {
-  "price": 289200.0,
+  "price": 290100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197742": {
   "price": 325678.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32484": {
-  "price": 364350.0,
+  "price": 366630.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:dnrfv4": {
-  "price": 370100.0,
+  "price": 373600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:9n07ri": {
-  "price": 341914.0,
+  "price": 345119.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:c65fof": {
   "price": 370903.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM658": {
-  "price": 381329.0,
+  "price": 382521.0,
   "alerted": 344.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:vg46rr": {
   "price": 347510.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:hzmmfl": {
-  "price": 369577.0,
+  "price": 373042.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:gtdfll": {
   "price": 372721.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:vm11o5": {
   "price": 375622.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32485": {
-  "price": 384320.0,
+  "price": 387850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:o1eovo": {
   "price": 382864.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:KF556C36BBE-8": {
-  "price": 358231.0,
+  "price": 359392.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:740617325942": {
   "price": 336891.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:ok7fil": {
-  "price": 359299.0,
+  "price": 360422.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:gozhri": {
   "price": 383647.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:hvw9a1": {
-  "price": 388369.0,
+  "price": 389583.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:2n9hjg": {
   "price": 382578.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:15792": {
   "price": 350100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf72f": {
   "price": 401946.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:niswto": {
   "price": 401946.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:gi8ars": {
   "price": 382578.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:x576vl": {
-  "price": 254300.0,
+  "price": 255100.0,
   "alerted": 269500.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:KF556C36BBEA-8": {
   "price": 350463.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:i11a5n": {
   "price": 393795.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197758": {
   "price": 370604.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:7q69r1": {
   "price": 391239.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197695": {
   "price": 397138.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197665": {
   "price": 429270.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:yhklri": {
-  "price": 244300.0,
+  "price": 245000.0,
   "alerted": 259000.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:239072": {
   "price": 413948.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197727": {
   "price": 437218.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:239071": {
   "price": 444434.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvekui": {
   "price": 480260.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197734": {
   "price": 450037.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:yvnrnh": {
   "price": 384999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:19240": {
   "price": 398249.0,
@@ -962,17 +962,17 @@
  "acuarioInsumos:g776im": {
   "price": 441834.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-106973": {
-  "price": 449400.0,
+  "price": 453600.0,
   "alerted": 300.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:z6cgpr": {
   "price": 446516.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:u0obr5": {
   "price": 444990.0,
@@ -985,39 +985,39 @@
   "seen": 1793283654
  },
  "scpHardStore:MEM722": {
-  "price": 455628.0,
+  "price": 457052.0,
   "alerted": 439.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "vertexRetail:tn-295773024-1320883784": {
   "price": 55350.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "vertexRetail:tn-306820692-1363567257": {
   "price": 87750.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "vertexRetail:tn-306800223-1363499047": {
   "price": 87750.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:hux2it": {
   "price": 462999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:pzb7hk": {
   "price": 427571.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32460": {
-  "price": 451200.0,
+  "price": 454020.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:cizay8": {
   "price": 505450.0,
@@ -1035,14 +1035,14 @@
   "seen": 1793627829
  },
  "gorilaGames:sr0lpr": {
-  "price": 476000.0,
+  "price": 480450.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:hnbhm5": {
   "price": 469990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:mf7br5": {
   "price": 464990.0,
@@ -1057,17 +1057,17 @@
  "silverHard:lg1fa4": {
   "price": 469229.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:dqggrj": {
-  "price": 474850.0,
+  "price": 477610.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM723": {
-  "price": 478805.0,
+  "price": 480302.0,
   "alerted": 461.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-108246": {
   "price": 500800.0,
@@ -1077,7 +1077,7 @@
  "acuarioInsumos:ajjqi1": {
   "price": 460956.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "liontech:tq4rzy": {
   "price": 496000.0,
@@ -1087,12 +1087,12 @@
  "gamerfactory:ucimdj": {
   "price": 481800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32461": {
-  "price": 482910.0,
+  "price": 485930.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:kuijci": {
   "price": 483947.0,
@@ -1102,7 +1102,7 @@
  "auragamer:qnthvv": {
   "price": 474872.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:697669500777": {
   "price": 444932.0,
@@ -1132,7 +1132,7 @@
  "tryHardware:k0k1x9": {
   "price": 479809.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:434div": {
   "price": 494420.0,
@@ -1142,12 +1142,12 @@
  "wiztech:dg8x5j": {
   "price": 289000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:mag2zj": {
   "price": 359000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:fgb4ju": {
   "price": 399000.0,
@@ -1157,12 +1157,12 @@
  "wiztech:2mukzk": {
   "price": 465000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:v13g48": {
   "price": 655000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:qoa983": {
   "price": 473990.0,
@@ -1297,7 +1297,7 @@
  "acuarioInsumos:e8tdel": {
   "price": 1165412.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:gp4zek": {
   "price": 1179999.0,
@@ -1307,7 +1307,7 @@
  "silverHard:kg0rhb": {
   "price": 1230155.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:dpzioe": {
   "price": 1139999.0,
@@ -1320,24 +1320,24 @@
   "seen": 1795200265
  },
  "fullh4rd:dvefok": {
-  "price": 1266568.0,
+  "price": 1266570.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA966": {
-  "price": 1223879.0,
+  "price": 1227704.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-37242": {
-  "price": 1241690.0,
+  "price": 1249450.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:4n3can": {
   "price": 1334500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:4719331355517": {
   "price": 1711890.0,
@@ -1347,12 +1347,12 @@
  "portalTech:4wah82": {
   "price": 1300000.0,
   "alerted": 1300000.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:js3cpy": {
   "price": 1315000.0,
   "alerted": 1512250.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:yi04d7": {
   "price": 1367410.0,
@@ -1372,12 +1372,12 @@
  "armyTech:1356021812": {
   "price": 1419050.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:ot4n5y": {
-  "price": 1537587.0,
+  "price": 1542392.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:7spnob": {
   "price": 1509999.0,
@@ -1392,7 +1392,7 @@
  "silverHard:8dvh9c": {
   "price": 1557528.0,
   "alerted": 1415394.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:19396d": {
   "price": 1501069.0,
@@ -1415,9 +1415,9 @@
   "seen": 1795141822
  },
  "scpHardStore:VGA636": {
-  "price": 1549581.0,
+  "price": 1554424.0,
   "alerted": 1444279.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:gck96f": {
   "price": 1569999.0,
@@ -1432,22 +1432,22 @@
  "mexx:mxq5vu": {
   "price": 1322749.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:202675": {
-  "price": 1697748.0,
+  "price": 1703024.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-28525": {
-  "price": 1499940.0,
+  "price": 1508900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:147s9u": {
   "price": 1620000.0,
   "alerted": 1509999.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:a3hu4a": {
   "price": 1649990.0,
@@ -1482,7 +1482,7 @@
  "tryHardware:d8lzsd": {
   "price": 1603049.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:ok60ro": {
   "price": 1669990.0,
@@ -1492,7 +1492,7 @@
  "silverHard:97va6h": {
   "price": 1627783.0,
   "alerted": 1561655.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:81pv02": {
   "price": 1597468.0,
@@ -1505,9 +1505,9 @@
   "seen": 1794627019
  },
  "scpHardStore:VGA648": {
-  "price": 1619478.0,
+  "price": 1624539.0,
   "alerted": 1593525.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:p6bjkm": {
   "price": 1599999.0,
@@ -1517,7 +1517,7 @@
  "armyTech:789279227": {
   "price": 55544.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA651": {
   "price": 1602462.0,
@@ -1527,7 +1527,7 @@
  "spaceVideojuegos:juuoe9": {
   "price": 1688000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:p9a7ww": {
   "price": 1665450.0,
@@ -1542,7 +1542,7 @@
  "armyTech:1338228611": {
   "price": 1723411.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:9mvf4k": {
   "price": 1799999.0,
@@ -1557,7 +1557,7 @@
  "spaceVideojuegos:5yv1x9": {
   "price": 1808000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:a3in9x": {
   "price": 1711567.0,
@@ -1582,7 +1582,7 @@
  "rminsumos:14814": {
   "price": 1638999.0,
   "alerted": 1585999.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:cq31iw": {
   "price": 1491269.0,
@@ -1597,12 +1597,12 @@
  "spaceVideojuegos:6nq8a2": {
   "price": 1851000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:n1tuhy": {
   "price": 1807366.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:oj3wig": {
   "price": 1783800.0,
@@ -1610,59 +1610,59 @@
   "seen": 1793111113
  },
  "maxTecno:cw2a2c": {
-  "price": 1689541.0,
+  "price": 1694821.0,
   "alerted": 1576789.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:rswslm": {
-  "price": 926667.0,
+  "price": 932459.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:dx0exj": {
   "price": 837509.0,
   "alerted": 769184.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:h1ago3": {
-  "price": 841513.0,
+  "price": 849402.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:ht5e55": {
   "price": 863500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfr3z": {
   "price": 863500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:82h8z9": {
   "price": 942440.0,
   "alerted": 810109.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA608": {
-  "price": 833236.0,
+  "price": 835840.0,
   "alerted": 787.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:61poja": {
   "price": 970330.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfr3d": {
   "price": 970330.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA635": {
-  "price": 937632.0,
+  "price": 940562.0,
   "alerted": 829.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-12552": {
   "price": 838580.0,
@@ -1670,44 +1670,44 @@
   "seen": 1795473365
  },
  "gamerfactory:rge5bu": {
-  "price": 977200.0,
+  "price": 980300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:rlzdcj": {
   "price": 858800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:rdw0a4": {
   "price": 1008789.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:95zos4": {
-  "price": 856609.0,
+  "price": 867379.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:47l7hd": {
   "price": 849990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:xcdpcv": {
   "price": 899818.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:90hxsg": {
   "price": 869990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:pvjly6": {
-  "price": 868400.0,
+  "price": 871100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:10394": {
   "price": 905999.0,
@@ -1720,14 +1720,14 @@
   "seen": 1795042927
  },
  "black:202674": {
-  "price": 983260.0,
+  "price": 986344.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:GV-R9060XTGAMING-OC-8GD": {
   "price": 895668.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:1pd8sp": {
   "price": 950572.0,
@@ -1735,14 +1735,14 @@
   "seen": 1793317143
  },
  "maximus:90YV0MI0-M0AA00": {
-  "price": 928616.0,
+  "price": 931473.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:8uegzs": {
   "price": 1102859.0,
   "alerted": 939757.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:6797a9": {
   "price": 989990.0,
@@ -1762,17 +1762,17 @@
  "gezatek:4ec93j": {
   "price": 64990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:d3qr1x": {
   "price": 76990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:k8rx2v": {
   "price": 254990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf47a": {
   "price": 967153.0,
@@ -1822,7 +1822,7 @@
  "auragamer:kuft6q": {
   "price": 1127476.0,
   "alerted": 1127476.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:cat0zu": {
   "price": 1146229.0,
@@ -1887,27 +1887,27 @@
  "gezatek:rzktll": {
   "price": 1399990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:18sz14": {
   "price": 1399990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:202576": {
-  "price": 1353387.0,
+  "price": 1361885.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:202672": {
-  "price": 1424589.0,
+  "price": 1433498.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:202671": {
-  "price": 1401331.0,
+  "price": 1410061.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:202557": {
   "price": 1387638.0,
@@ -1917,12 +1917,12 @@
  "compufanStore:812366026903": {
   "price": 69050.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:812366026910": {
   "price": 91500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:73lajs": {
   "price": 869990.0,
@@ -1932,7 +1932,7 @@
  "gezatek:hbhb4": {
   "price": 869990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:19gb88": {
   "price": 878399.0,
@@ -1942,7 +1942,7 @@
  "acuarioInsumos:pjpasc": {
   "price": 863216.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:3xxd5b": {
   "price": 909999.0,
@@ -1962,27 +1962,27 @@
  "maximus:90YV0NS0-M0AA00": {
   "price": 981833.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:9hdynp": {
   "price": 899990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:1ux0ua": {
   "price": 1010690.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf1vi": {
   "price": 1010690.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:kckwyi": {
   "price": 879999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:s846uk": {
   "price": 854885.0,
@@ -1997,7 +1997,7 @@
  "noxie:i6siba": {
   "price": 864999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:39akf2": {
   "price": 863513.0,
@@ -2007,12 +2007,12 @@
  "noxie:jy7v2j": {
   "price": 875000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:8265": {
   "price": 979999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:1c2lmd": {
   "price": 867879.0,
@@ -2027,7 +2027,7 @@
  "silverHard:katrj5": {
   "price": 944075.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:bedhn8": {
   "price": 1019999.0,
@@ -2040,9 +2040,9 @@
   "seen": 1793111113
  },
  "gorilaGames:681j6s": {
-  "price": 898250.0,
+  "price": 906650.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:ouumd4": {
   "price": 867878.0,
@@ -2052,72 +2052,72 @@
  "fullh4rd:dvfr5u": {
   "price": 1009671.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:61yox8": {
   "price": 1014400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf1uv": {
   "price": 1014400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:bl7934": {
   "price": 980205.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:66jtkm": {
   "price": 974231.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-99536": {
-  "price": 80250.0,
+  "price": 81000.0,
   "alerted": 50.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-99542": {
-  "price": 80250.0,
+  "price": 81000.0,
   "alerted": 50.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-99424": {
-  "price": 101115.0,
+  "price": 102060.0,
   "alerted": 63.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-99593": {
-  "price": 104325.0,
+  "price": 105300.0,
   "alerted": 65.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-99393": {
-  "price": 110745.0,
+  "price": 111780.0,
   "alerted": 69.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-99404": {
-  "price": 110745.0,
+  "price": 111780.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:1sf4p4": {
   "price": 949990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:5s451a": {
   "price": 949990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA572": {
-  "price": 939258.0,
+  "price": 942193.0,
   "alerted": 869.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:x1zlly": {
   "price": 892219.0,
@@ -2135,9 +2135,9 @@
   "seen": 1793111113
  },
  "scpHardStore:VGA980": {
-  "price": 994113.0,
+  "price": 997220.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:GV-N5060AERO-OC-8GD": {
   "price": 1033290.0,
@@ -2145,34 +2145,34 @@
   "seen": 1794395896
  },
  "enjoyComputer:wc-37056": {
-  "price": 976000.0,
+  "price": 982100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4711377344272": {
   "price": 935400.0,
   "alerted": 572500.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:im20ci": {
-  "price": 936000.0,
+  "price": 944800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:m3dwgo": {
   "price": 969990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:yu7efy": {
   "price": 969990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:maaqs9": {
   "price": 913879.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:oyqzu1": {
   "price": 929999.0,
@@ -2192,7 +2192,7 @@
  "noxie:wtflz6": {
   "price": 944999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:5tw7ef": {
   "price": 918447.0,
@@ -2205,9 +2205,9 @@
   "seen": 1793111113
  },
  "enjoyComputer:wc-36984": {
-  "price": 1016240.0,
+  "price": 1022590.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bithard:cv3g3e": {
   "price": 924656.0,
@@ -2222,12 +2222,12 @@
  "crosshairGaming:9id7q8": {
   "price": 918557.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:c6btpt": {
   "price": 966077.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:k0ipcf": {
   "price": 932767.0,
@@ -2260,9 +2260,9 @@
   "seen": 1793023079
  },
  "enjoyComputer:wc-27314": {
-  "price": 973180.0,
+  "price": 979260.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:w5547g": {
   "price": 969999.0,
@@ -2272,7 +2272,7 @@
  "mexx:ezk0s2": {
   "price": 914769.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:659o9": {
   "price": 1020500.0,
@@ -2282,27 +2282,27 @@
  "fullh4rd:dvef2w": {
   "price": 1020500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:np92h8": {
   "price": 969990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:bju4ok": {
   "price": 959999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:kyhrth": {
   "price": 968917.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvei06": {
   "price": 968917.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:yxm5az": {
   "price": 1037869.0,
@@ -2312,22 +2312,22 @@
  "crosshairGaming:hrxfsf": {
   "price": 951307.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:6f9d2q": {
   "price": 994670.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf21l": {
   "price": 994670.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:37f3s2": {
   "price": 1076374.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:jcrks": {
   "price": 959546.0,
@@ -2352,7 +2352,7 @@
  "scpHardStore:VGA499": {
   "price": 961148.0,
   "alerted": 947.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:vh3mbc": {
   "price": 954754.0,
@@ -2367,7 +2367,7 @@
  "crosshairGaming:yzvj9": {
   "price": 923919.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:5d6wa4": {
   "price": 1072980.0,
@@ -2407,7 +2407,7 @@
  "silverHard:qzeyla": {
   "price": 940902.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-19546": {
   "price": 954930.0,
@@ -2417,7 +2417,7 @@
  "silverHard:9tg0ak": {
   "price": 956787.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:9045": {
   "price": 963999.0,
@@ -2427,32 +2427,32 @@
  "gezatek:97do6e": {
   "price": 999990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:87ogt7": {
   "price": 979990.0,
   "alerted": 879990.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:cqgfn1": {
   "price": 971712.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:d696mn": {
   "price": 874679.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA505": {
   "price": 1070882.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA503": {
-  "price": 954651.0,
+  "price": 1060052.0,
   "alerted": 954.0,
-  "seen": 1795093209
+  "seen": 1795543689
  },
  "venex:51tv0o": {
   "price": 1009999.0,
@@ -2467,17 +2467,17 @@
  "armyTech:1050783281": {
   "price": 902119.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:1c82r1": {
   "price": 985121.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfo9j": {
   "price": 985121.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:phg8qg": {
   "price": 1020297.0,
@@ -2492,12 +2492,12 @@
  "compufanStore:4711377338868": {
   "price": 989850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:39kg54": {
-  "price": 999354.0,
+  "price": 1002477.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:d3emqv": {
   "price": 949990.0,
@@ -2515,14 +2515,14 @@
   "seen": 1793043931
  },
  "scpHardStore:VGA568": {
-  "price": 936101.0,
+  "price": 939026.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-27313": {
-  "price": 939550.0,
+  "price": 948000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:ndmzmw": {
   "price": 1072800.0,
@@ -2530,14 +2530,14 @@
   "seen": 1795019177
  },
  "fullh4rd:dvfsrg": {
-  "price": 1105070.0,
+  "price": 1053680.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA528": {
-  "price": 951906.0,
+  "price": 954881.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:e1py2y": {
   "price": 1031366.0,
@@ -2545,19 +2545,19 @@
   "seen": 1795042927
  },
  "scpHardStore:VGA542": {
-  "price": 966754.0,
+  "price": 969775.0,
   "alerted": 954.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:n9b8ee": {
   "price": 1018965.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf3k1": {
   "price": 1037422.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-12558": {
   "price": 1073080.0,
@@ -2575,24 +2575,24 @@
   "seen": 1794422857
  },
  "tryHardware:iljuog": {
-  "price": 985249.0,
+  "price": 991429.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:a0dl03": {
   "price": 1049128.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvegcr": {
   "price": 1049128.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:r9u92h": {
-  "price": 1020075.0,
+  "price": 1029638.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:9044": {
   "price": 1010999.0,
@@ -2607,17 +2607,17 @@
  "hypergaming:dlk9wf": {
   "price": 1110400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:4f6wae": {
   "price": 967099.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:23981": {
-  "price": 1080000.0,
+  "price": 1083000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:oucn0k": {
   "price": 1005463.0,
@@ -2627,7 +2627,7 @@
  "silverHard:fx3p2n": {
   "price": 1028158.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:9bh7as": {
   "price": 1068159.0,
@@ -2637,7 +2637,7 @@
  "auragamer:xauyto": {
   "price": 1000948.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:18i56z": {
   "price": 1029700.0,
@@ -2650,59 +2650,59 @@
   "seen": 1794566020
  },
  "enjoyComputer:wc-36350": {
-  "price": 1020530.0,
+  "price": 1026910.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "megasoft:6w0f1u": {
-  "price": 987840.0,
+  "price": 1000188.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA957": {
   "price": 1013767.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:3yqh8z": {
-  "price": 1113135.0,
+  "price": 1120092.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-26049": {
-  "price": 1016200.0,
+  "price": 1022550.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:6ki75f": {
-  "price": 1039690.0,
+  "price": 1049437.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:2mvy37": {
-  "price": 1041177.0,
+  "price": 1050938.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:1la7gf": {
-  "price": 1041191.0,
+  "price": 1050953.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:86xxib": {
   "price": 1049990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:4jimm2": {
   "price": 1049990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:rph4j4": {
   "price": 999990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:miupfg": {
   "price": 996369.0,
@@ -2715,64 +2715,64 @@
   "seen": 1793791027
  },
  "megasoft:6yuy4z": {
-  "price": 1056960.0,
+  "price": 1070172.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:wufq9k": {
-  "price": 1046623.0,
+  "price": 1056435.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:c3ulqq": {
   "price": 1064027.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:58o50z": {
   "price": 1060659.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:dvhzmw": {
   "price": 1058209.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA520": {
   "price": 1022913.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:b5k63z": {
   "price": 1075060.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:hmj1m": {
-  "price": 1049754.0,
+  "price": 1056315.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:tp5i6c": {
   "price": 1021669.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:hnki2a": {
-  "price": 1053050.0,
+  "price": 1062950.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:uc166g": {
-  "price": 1055231.0,
+  "price": 1061826.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:rcysh3": {
-  "price": 1055262.0,
+  "price": 1065155.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:o0bn3g": {
   "price": 1017684.0,
@@ -2782,12 +2782,12 @@
  "xtpc:bf2sjh": {
   "price": 1095538.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf18d": {
   "price": 1095538.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfqjb": {
   "price": 1058520.0,
@@ -2797,102 +2797,102 @@
  "auragamer:lqhxs5": {
   "price": 1026998.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:d94f7o": {
   "price": 1066189.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1829812321": {
   "price": 1003306.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:bwzxiv": {
   "price": 1058507.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:cmrqmo": {
   "price": 1083697.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-31405": {
-  "price": 1010630.0,
+  "price": 1016760.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bithard:5flq5p": {
   "price": 1067863.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:naz3oz": {
   "price": 1074989.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:3rgd0u": {
   "price": 1115000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:15373": {
-  "price": 1069999.0,
+  "price": 1092999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:x0q9ef": {
-  "price": 1063940.0,
+  "price": 1070590.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:imkjgi": {
-  "price": 1065023.0,
+  "price": 1075008.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:z3hlee": {
   "price": 1035475.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:w7chsb": {
   "price": 1089836.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfqji": {
   "price": 1089836.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:ddsk5s": {
   "price": 1092319.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:id8wwi": {
-  "price": 1068438.0,
+  "price": 1075116.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA553": {
-  "price": 1052414.0,
+  "price": 1121542.0,
   "alerted": null,
-  "seen": 1795019177
+  "seen": 1795543689
  },
  "slotOne:o437cd": {
-  "price": 1035078.0,
+  "price": 1041547.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:x909ch": {
   "price": 1114742.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:nvdpp3": {
   "price": 1028000.0,
@@ -2900,19 +2900,19 @@
   "seen": 1794566020
  },
  "netGaming:250674": {
-  "price": 1079104.0,
+  "price": 1082476.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:8pbadj": {
   "price": 1072816.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:e7yb1c": {
   "price": 1066320.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:7ddbv7": {
   "price": 1064835.0,
@@ -2920,9 +2920,9 @@
   "seen": 1793913804
  },
  "bracatech:32at9s": {
-  "price": 1074011.0,
+  "price": 1080724.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:etiep9": {
   "price": 1076785.0,
@@ -2932,7 +2932,7 @@
  "crosshairGaming:5ifyt7": {
   "price": 1100958.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:vqlwl9": {
   "price": 1103690.0,
@@ -2947,7 +2947,7 @@
  "crosshairGaming:r64zfm": {
   "price": 1040538.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:py7nry": {
   "price": 1059139.0,
@@ -2955,19 +2955,19 @@
   "seen": 1794566020
  },
  "scpHardStore:VGA554": {
-  "price": 1053107.0,
+  "price": 1056397.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:x0um9b": {
   "price": 1104574.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfqik": {
   "price": 1104574.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-27315": {
   "price": 1017760.0,
@@ -2975,49 +2975,49 @@
   "seen": 1795473365
  },
  "bracatech:88va2e": {
-  "price": 1082876.0,
+  "price": 1089644.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA562": {
-  "price": 1058598.0,
+  "price": 1061906.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:9wicg": {
-  "price": 1103300.0,
+  "price": 1106700.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:lcxhv6": {
-  "price": 1086515.0,
+  "price": 1089910.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA529": {
-  "price": 1109055.0,
+  "price": 1112521.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:r3ptz0": {
   "price": 1116165.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:dfwdbx": {
   "price": 1094375.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:l6926e": {
   "price": 1099990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:3weojl": {
   "price": 1044999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfqjc": {
   "price": 1050000.0,
@@ -3025,9 +3025,9 @@
   "seen": 1793283654
  },
  "scpHardStore:VGA555": {
-  "price": 1067342.0,
+  "price": 1070678.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA590": {
   "price": 1086566.0,
@@ -3035,24 +3035,24 @@
   "seen": 1793890468
  },
  "enjoyComputer:wc-36351": {
-  "price": 1113140.0,
+  "price": 1119900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:nxhhih": {
-  "price": 1097600.0,
+  "price": 1101000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:m324u2": {
   "price": 1061026.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:oy9nh0": {
   "price": 1061274.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:yat0x7": {
   "price": 1077733.0,
@@ -3075,9 +3075,9 @@
   "seen": 1795335145
  },
  "gorilaGames:hn5tv1": {
-  "price": 1105700.0,
+  "price": 1116100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:9r6hqs": {
   "price": 1749999.0,
@@ -3085,14 +3085,14 @@
   "seen": 1795042927
  },
  "xtpc:dc2oku": {
-  "price": 1867944.0,
+  "price": 1804620.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvtpu7": {
   "price": 1867944.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:oigoqh": {
   "price": 1619999.0,
@@ -3102,17 +3102,17 @@
  "logg:lhyx99": {
   "price": 1599999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:f7y5b0": {
   "price": 1814240.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:pzhn5y": {
-  "price": 1669200.0,
+  "price": 1831300.0,
   "alerted": null,
-  "seen": 1794219810
+  "seen": 1795543689
  },
  "fullh4rd:dvejcc": {
   "price": 1669200.0,
@@ -3120,9 +3120,9 @@
   "seen": 1794310350
  },
  "gamerfactory:nht1c4": {
-  "price": 1780800.0,
+  "price": 1786400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4711377308205": {
   "price": 1658250.0,
@@ -3130,89 +3130,89 @@
   "seen": 1795364553
  },
  "enjoyComputer:wc-12551": {
-  "price": 1895460.0,
+  "price": 1841840.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:4zeel0": {
   "price": 1649999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:fjm5hd": {
-  "price": 1843200.0,
+  "price": 1849000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:roaeh5": {
   "price": 1636907.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA533": {
-  "price": 1804984.0,
+  "price": 1749242.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:4yasm1": {
   "price": 1721579.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:brns6w": {
-  "price": 1673596.0,
+  "price": 1682824.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:hqx7pg": {
   "price": 1735000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:dwkdej": {
   "price": 1758640.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:czk3u9": {
   "price": 1768330.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvftdu": {
   "price": 1768330.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:cz37kk": {
-  "price": 1817911.0,
+  "price": 1772743.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:aoial9": {
   "price": 1684287.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:2ao1yb": {
   "price": 1799990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:5cm0bi": {
   "price": 1742787.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvftdt": {
   "price": 1742787.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:qz3e74": {
   "price": 1849000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:a6ndzn": {
   "price": 1764990.0,
@@ -3220,24 +3220,19 @@
   "seen": 1795042927
  },
  "scpHardStore:VGA563": {
-  "price": 1712796.0,
+  "price": 1718148.0,
   "alerted": null,
-  "seen": 1795501461
- },
- "tryHardware:n0fowc": {
-  "price": 1700139.0,
-  "alerted": null,
-  "seen": 1792945340
+  "seen": 1795543689
  },
  "silverHard:shnxti": {
   "price": 1771410.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA564": {
-  "price": 1749667.0,
+  "price": 1755135.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:pdgpfo": {
   "price": 1710850.0,
@@ -3245,39 +3240,34 @@
   "seen": 1793219090
  },
  "gamerfactory:4l1svt": {
-  "price": 1881100.0,
+  "price": 1887000.0,
   "alerted": 1451100.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "spaceVideojuegos:r8ovdy": {
   "price": 1762000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:gsnivq": {
   "price": 1818900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvftds": {
   "price": 1818900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:3h4gne": {
-  "price": 1817909.0,
+  "price": 1761779.0,
   "alerted": null,
-  "seen": 1795501461
- },
- "fullh4rd:dvftdv": {
-  "price": 1710204.0,
-  "alerted": null,
-  "seen": 1792930441
+  "seen": 1795543689
  },
  "gamerfactory:wga4op": {
-  "price": 1662900.0,
+  "price": 1668100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:7j5hmh": {
   "price": 1699999.0,
@@ -3295,14 +3285,14 @@
   "seen": 1793817826
  },
  "enjoyComputer:wc-11534": {
-  "price": 1796430.0,
+  "price": 1807340.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA557": {
-  "price": 1762372.0,
+  "price": 1767880.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:912-V532-009": {
   "price": 1708380.0,
@@ -3310,14 +3300,14 @@
   "seen": 1793791027
  },
  "maximus:912-V532-269": {
-  "price": 1789818.0,
+  "price": 1795354.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:2loz0o": {
   "price": 1692909.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:4719331355777": {
   "price": 1635017.0,
@@ -3325,19 +3315,19 @@
   "seen": 1793890468
  },
  "hardloots:197xtx": {
-  "price": 1784549.0,
+  "price": 1740219.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-31384": {
-  "price": 1765200.0,
+  "price": 1775920.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:32623": {
-  "price": 1820000.0,
+  "price": 1821000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:90YV0M17-M0AA00": {
   "price": 1761513.0,
@@ -3367,7 +3357,7 @@
  "fullh4rd:dwec4y": {
   "price": 94492.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:rsvapq": {
   "price": 266600.0,
@@ -3382,7 +3372,7 @@
  "xtpc:78tiw0": {
   "price": 94492.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:1k3jd2": {
   "price": 86547.0,
@@ -3425,19 +3415,19 @@
   "seen": 1793394050
  },
  "compugarden:hbn9di": {
-  "price": 72080.0,
+  "price": 72304.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-17111": {
-  "price": 168200.0,
+  "price": 169250.0,
   "alerted": 153550.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-17140": {
-  "price": 220770.0,
+  "price": 222150.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:tbpbtb": {
   "price": 139219.0,
@@ -3452,7 +3442,7 @@
  "bracatech:79ecxe": {
   "price": 70559.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:tfepk5": {
   "price": 140873.0,
@@ -3460,9 +3450,9 @@
   "seen": 1793394050
  },
  "compugarden:bbnwi7": {
-  "price": 214291.0,
+  "price": 214957.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:nmpugd": {
   "price": 87661.0,
@@ -3470,34 +3460,34 @@
   "seen": 1795170317
  },
  "maxTecno:n7iuf7": {
-  "price": 222563.0,
+  "price": 223259.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:PSU343": {
-  "price": 235074.0,
+  "price": 235809.0,
   "alerted": 226.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:7c2e6g": {
   "price": 195245.0,
   "alerted": 187313.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:bycb2l": {
   "price": 211377.0,
   "alerted": 119669.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:do5oxg": {
   "price": 151398.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:up0ij2": {
   "price": 164940.0,
   "alerted": 152486.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:rlbgxf": {
   "price": 172008.0,
@@ -3505,29 +3495,29 @@
   "seen": 1794653562
  },
  "scpHardStore:PSU302": {
-  "price": 154488.0,
+  "price": 154971.0,
   "alerted": 175.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:n08g6p": {
   "price": 210969.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:birnbc": {
   "price": 207473.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:500hpm": {
-  "price": 122955.0,
+  "price": 123724.0,
   "alerted": 114082.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:96jxy0": {
-  "price": 182200.0,
+  "price": 183900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32574": {
   "price": 110070.0,
@@ -3535,14 +3525,14 @@
   "seen": 1794937021
  },
  "tryHardware:jqra8e": {
-  "price": 229399.0,
+  "price": 232279.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "dinobyte:rqeaqn": {
-  "price": 214700.0,
+  "price": 215400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:nn63bj": {
   "price": 2668.0,
@@ -3552,12 +3542,12 @@
  "clickGaming:24384": {
   "price": 116000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:34gryd": {
-  "price": 300007.0,
+  "price": 300939.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:9jwz6b": {
   "price": 169999.0,
@@ -3570,19 +3560,19 @@
   "seen": 1794566020
  },
  "compugarden:wtc1h5": {
-  "price": 249357.0,
+  "price": 250131.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-17125": {
-  "price": 237320.0,
+  "price": 238740.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:u6qqov": {
-  "price": 116800.0,
+  "price": 117200.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:on2ohj": {
   "price": 25999.0,
@@ -4242,7 +4232,7 @@
  "maximus:Lovingcool-AK-W240-03-White": {
   "price": 99505.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:msi-coreliquid-240-a15": {
   "price": 129897.0,
@@ -4332,7 +4322,7 @@
  "noxie:2x20zn": {
   "price": 899999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:3hc36p": {
   "price": 1743812.0,
@@ -4342,7 +4332,7 @@
  "auragamer:7a8nl4": {
   "price": 1751088.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:81hs2": {
   "price": 1773100.0,
@@ -4350,9 +4340,9 @@
   "seen": 1795019177
  },
  "enjoyComputer:wc-28534": {
-  "price": 292950.0,
+  "price": 294780.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:4sjbh8": {
   "price": 504377.0,
@@ -4365,9 +4355,9 @@
   "seen": 1795170317
  },
  "enjoyComputer:wc-11532": {
-  "price": 1106100.0,
+  "price": 1112720.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:5mtslg": {
   "price": 1799000.0,
@@ -4375,9 +4365,9 @@
   "seen": 1795093209
  },
  "scpHardStore:MEM696": {
-  "price": 301927.0,
+  "price": 302871.0,
   "alerted": 295.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA639": {
   "price": 1490820.0,
@@ -4387,22 +4377,22 @@
  "bithard:2kenfy": {
   "price": 1109307.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:g3vvl6": {
-  "price": 1112011.0,
+  "price": 1115486.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:vof05j": {
-  "price": 302649.0,
+  "price": 306439.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:d3z7eq": {
   "price": 296353.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:nz3ck": {
   "price": 495703.0,
@@ -4442,17 +4432,17 @@
  "silverHard:eattgg": {
   "price": 1115896.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:ixl9ls": {
-  "price": 1799225.0,
+  "price": 1749099.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:m3y9wh": {
-  "price": 1831700.0,
+  "price": 1837500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:z3v5ai": {
   "price": 303845.0,
@@ -4467,17 +4457,17 @@
  "xtpc:3ct25l": {
   "price": 1833182.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:je1uql": {
   "price": 238193.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:n1igye": {
-  "price": 275300.0,
+  "price": 277900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:PCGAMER229": {
   "price": 1544499.0,
@@ -4500,14 +4490,14 @@
   "seen": 1795501461
  },
  "crosshairGaming:8tjqif": {
-  "price": 1010535.0,
+  "price": 1016851.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:7damyg": {
   "price": 295889.0,
   "alerted": 243331.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:23973": {
   "price": 1014000.0,
@@ -4552,22 +4542,22 @@
  "bithard:pfmh55": {
   "price": 1115094.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dveezg": {
   "price": 1833182.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:xh2tnz": {
   "price": 1035340.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:wao9jc": {
   "price": 995359.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:16243": {
   "price": 1116999.0,
@@ -4580,14 +4570,14 @@
   "seen": 1793111113
  },
  "slotOne:gxvnru": {
-  "price": 1075249.0,
+  "price": 1085330.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA502": {
   "price": 1110471.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:bo1j0u": {
   "price": 489990.0,
@@ -4597,17 +4587,17 @@
  "scpHardStore:VGA507": {
   "price": 1088792.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-11535": {
-  "price": 1847480.0,
+  "price": 1859030.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:esmur": {
   "price": 424252.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:198448": {
   "price": 48464.0,
@@ -4657,7 +4647,7 @@
  "mexx:u4knpi": {
   "price": 1720979.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:j3gr28": {
   "price": 492891.0,
@@ -4665,9 +4655,9 @@
   "seen": 1793890468
  },
  "xtpc:kejq0l": {
-  "price": 1105070.0,
+  "price": 1053680.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:um3kvi": {
   "price": 1050000.0,
@@ -4680,14 +4670,14 @@
   "seen": 1793627829
  },
  "amonpulTeam:6g7san": {
-  "price": 1057724.0,
+  "price": 1061029.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:nox1ce": {
   "price": 936778.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:lqlz45": {
   "price": 1021024.0,
@@ -4695,9 +4685,9 @@
   "seen": 1794627019
  },
  "maxTecno:dsks4s": {
-  "price": 1039079.0,
+  "price": 1042326.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:5ny95y": {
   "price": 1015318.0,
@@ -4732,7 +4722,7 @@
  "black:213445": {
   "price": 324854.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-34201": {
   "price": 256300.0,
@@ -4762,7 +4752,7 @@
  "noxie:tihkl0": {
   "price": 488111.0,
   "alerted": null,
-  "seen": 1795220389
+  "seen": 1795543689
  },
  "bracatech:aofx58": {
   "price": 1507750.0,
@@ -4775,14 +4765,14 @@
   "seen": 1793283654
  },
  "bracatech:24z26n": {
-  "price": 265183.0,
+  "price": 266840.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:itqav0": {
-  "price": 265183.0,
+  "price": 266840.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:qs5os2": {
   "price": 493827.0,
@@ -4790,9 +4780,9 @@
   "seen": 1795093209
  },
  "scpHardStore:VGA984": {
-  "price": 1194659.0,
+  "price": 1198393.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA645": {
   "price": 1049924.0,
@@ -4802,7 +4792,7 @@
  "silverHard:eg3pe9": {
   "price": 1170766.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:fqdsx7": {
   "price": 1028925.0,
@@ -4817,17 +4807,17 @@
  "armyTech:987640516": {
   "price": 827713.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:cbncu7": {
   "price": 1037422.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-33762": {
-  "price": 299890.0,
+  "price": 302680.0,
   "alerted": null,
-  "seen": 1795473365
+  "seen": 1795543689
  },
  "compufanStore:840440439158": {
   "price": 502800.0,
@@ -4840,9 +4830,9 @@
   "seen": 1793043931
  },
  "enjoyComputer:wc-34193": {
-  "price": 1273300.0,
+  "price": 1285370.0,
   "alerted": null,
-  "seen": 1795473365
+  "seen": 1795543689
  },
  "enjoyComputer:wc-31381": {
   "price": 1178500.0,
@@ -4875,14 +4865,14 @@
   "seen": 1795200265
  },
  "maximus:AX5U5600C468G-SLABWH": {
-  "price": 267513.0,
+  "price": 268316.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:AX5U5600C468G-SLABRBK": {
-  "price": 275995.0,
+  "price": 276888.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:203310": {
   "price": 141588.0,
@@ -4892,7 +4882,7 @@
  "armyTech:13178559": {
   "price": 852768.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:819771972": {
   "price": 153708.0,
@@ -4912,7 +4902,7 @@
  "auragamer:uit9u8": {
   "price": 1024226.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:pbut62": {
   "price": 489990.0,
@@ -4922,7 +4912,7 @@
  "mexx:d2pnx8": {
   "price": 923459.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:yha2dp": {
   "price": 1024226.0,
@@ -4947,7 +4937,7 @@
  "hydraxtreme:398vwo": {
   "price": 1077250.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:9129": {
   "price": 242999.0,
@@ -4965,24 +4955,24 @@
   "seen": 1795200265
  },
  "gamingPoint:s1ptfw": {
-  "price": 1037949.0,
+  "price": 1047679.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compel:ipjx6d": {
   "price": 372721.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:kc2pdn": {
-  "price": 982080.0,
+  "price": 991287.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:2vvcon": {
-  "price": 482872.0,
+  "price": 487442.0,
   "alerted": null,
-  "seen": 1795220389
+  "seen": 1795543689
  },
  "scpHardStore:MEM780": {
   "price": 491173.0,
@@ -4995,9 +4985,9 @@
   "seen": 1795501461
  },
  "hydraxtreme:og3nb8": {
-  "price": 1112050.0,
+  "price": 1119050.0,
   "alerted": null,
-  "seen": 1795275209
+  "seen": 1795543689
  },
  "silverHard:6h4cm5": {
   "price": 1737361.0,
@@ -5007,7 +4997,7 @@
  "silverHard:56ut4y": {
   "price": 1780469.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:17960": {
   "price": 100799.0,
@@ -5067,12 +5057,12 @@
  "xtpc:chvu0e": {
   "price": 359541.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvy95t": {
   "price": 359541.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:198319": {
   "price": 151449.0,
@@ -5082,27 +5072,27 @@
  "armyTech:1473975188": {
   "price": 897856.0,
   "alerted": 879999.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:24252082": {
   "price": 1043401.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:2019232465": {
   "price": 1033373.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:yj155s": {
-  "price": 322600.0,
+  "price": 323608.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:4ysco1": {
-  "price": 1295300.0,
+  "price": 1307500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA609": {
   "price": 1113584.0,
@@ -5137,12 +5127,12 @@
  "maximus:Lovingcool-Ak-W360-03-White": {
   "price": 98121.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:Lovingcool-DP-W240-02-White": {
   "price": 111139.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:MAG-CORELIQUID-A13-240-WHITE": {
   "price": 89888.0,
@@ -5167,7 +5157,7 @@
  "noxie:uwwja2": {
   "price": 482999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:z4h892": {
   "price": 814998.0,
@@ -5190,9 +5180,9 @@
   "seen": 1795501461
  },
  "gamerfactory:2kc6h8": {
-  "price": 1436900.0,
+  "price": 1441400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:om04": {
   "price": 879990.0,
@@ -5202,7 +5192,7 @@
  "mexx:yixo4k": {
   "price": 423679.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:wzb5ee": {
   "price": 1687800.0,
@@ -5217,12 +5207,12 @@
  "mexx:jy91v3": {
   "price": 817199.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:siwdab": {
   "price": 967979.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:2hu8oi": {
   "price": 352481.0,
@@ -5237,22 +5227,22 @@
  "logg:yp1pgg": {
   "price": 849999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:v8mc76": {
-  "price": 1595300.0,
+  "price": 1600300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:7s960t": {
-  "price": 1554400.0,
+  "price": 1559300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4719331555160": {
   "price": 72300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:18673": {
   "price": 66599.0,
@@ -5262,7 +5252,7 @@
  "gamingCity:19001": {
   "price": 944100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:7gvhwg": {
   "price": 1649999.0,
@@ -5270,14 +5260,14 @@
   "seen": 1793043931
  },
  "goldenTech:9lpqku": {
-  "price": 275638.0,
+  "price": 276500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:jqnndo": {
-  "price": 275638.0,
+  "price": 276500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:68q634": {
   "price": 506801.0,
@@ -5287,7 +5277,7 @@
  "rminsumos:14761": {
   "price": 311999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1521697496": {
   "price": 93470.0,
@@ -5297,12 +5287,12 @@
  "hydraxtreme:6zwfx7": {
   "price": 301800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hydraxtreme:qfmri4": {
   "price": 301800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:216429": {
   "price": 1606535.0,
@@ -5310,9 +5300,9 @@
   "seen": 1795141822
  },
  "black:216425": {
-  "price": 1688770.0,
+  "price": 1694044.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:25q8j3": {
   "price": 36722.0,
@@ -5322,12 +5312,12 @@
  "silverHard:u85u7b": {
   "price": 440285.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM798": {
-  "price": 449270.0,
+  "price": 450674.0,
   "alerted": 462.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-13176": {
   "price": 143400.0,
@@ -5385,14 +5375,14 @@
   "seen": 1794422857
  },
  "netGaming:255857": {
-  "price": 310093.0,
+  "price": 311063.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:255858": {
-  "price": 310093.0,
+  "price": 311063.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:8j49ef": {
   "price": 1156981.0,
@@ -5422,22 +5412,22 @@
  "black:216755": {
   "price": 325678.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:216743": {
   "price": 350035.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:10090": {
   "price": 386999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:217169": {
   "price": 1234935.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM745": {
   "price": 495060.0,
@@ -5517,7 +5507,7 @@
  "armyTech:872483622": {
   "price": 369221.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:hk1y6b": {
   "price": 261400.0,
@@ -5585,9 +5575,9 @@
   "seen": 1794502393
  },
  "rocketHard:avsqvs": {
-  "price": 292217.0,
+  "price": 299615.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:tkg1k6": {
   "price": 74990.0,
@@ -5597,22 +5587,22 @@
  "gezatek:u1hnyd": {
   "price": 72990.0,
   "alerted": 72990.0,
-  "seen": 1795335145
+  "seen": 1795543689
  },
  "gezatek:uijack": {
   "price": 64990.0,
   "alerted": 64990.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:t3ef5z": {
   "price": 81990.0,
   "alerted": 81990.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:uzkwqr": {
   "price": 42990.0,
   "alerted": 42990.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:90MB1J70-M0EAY0": {
   "price": 541161.0,
@@ -5640,9 +5630,9 @@
   "seen": 1794902885
  },
  "bracatech:brp06q": {
-  "price": 1831247.0,
+  "price": 1780229.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:l41gjg": {
   "price": 263486.0,
@@ -5662,7 +5652,7 @@
  "maximus:E1504FA-WS51": {
   "price": 1199517.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:MANTIS-BLK": {
   "price": 67887.0,
@@ -5677,12 +5667,12 @@
  "maximus:PC-ML20-ARMADA-GAMER": {
   "price": 1252024.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:PC-ML7-ARMADA-GAMER": {
   "price": 1282731.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:k3zanf": {
   "price": 505596.0,
@@ -5692,7 +5682,7 @@
  "silverHard:whmd93": {
   "price": 1854186.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:217741": {
   "price": 163919.0,
@@ -5712,7 +5702,7 @@
  "fullh4rd:dvdx64": {
   "price": 64114.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:216358": {
   "price": 1737822.0,
@@ -5722,7 +5712,7 @@
  "xtpc:30ned5": {
   "price": 64114.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:4oviqm": {
   "price": 146989.0,
@@ -5735,9 +5725,9 @@
   "seen": 1793043931
  },
  "scpHardStore:VGA532": {
-  "price": 1772817.0,
+  "price": 1901904.0,
   "alerted": null,
-  "seen": 1793283654
+  "seen": 1795543689
  },
  "gorilaGames:5bbdut": {
   "price": 1016850.0,
@@ -5750,14 +5740,14 @@
   "seen": 1793129449
  },
  "gamingPoint:6cl4yf": {
-  "price": 1917973.0,
+  "price": 1858748.0,
   "alerted": null,
-  "seen": 1795473365
+  "seen": 1795543689
  },
  "gezatek:yywibh": {
   "price": 999990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:dlz4u7": {
   "price": 899999.0,
@@ -5765,9 +5755,9 @@
   "seen": 1795141822
  },
  "hardcore:wc-111965": {
-  "price": 296925.0,
+  "price": 299700.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:203311": {
   "price": 145755.0,
@@ -5775,14 +5765,14 @@
   "seen": 1795501461
  },
  "clickGaming:5138": {
-  "price": 286000.0,
+  "price": 287000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:5140": {
-  "price": 412000.0,
+  "price": 414000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:5116": {
   "price": 486000.0,
@@ -5810,9 +5800,9 @@
   "seen": 1795170317
  },
  "clickGaming:7262": {
-  "price": 996000.0,
+  "price": 999000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:37182": {
   "price": 911000.0,
@@ -5820,9 +5810,9 @@
   "seen": 1793283654
  },
  "clickGaming:7735": {
-  "price": 1011000.0,
+  "price": 1015000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:20856": {
   "price": 963000.0,
@@ -5830,24 +5820,24 @@
   "seen": 1793023079
  },
  "clickGaming:33764": {
-  "price": 1021000.0,
+  "price": 1025000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:37194": {
-  "price": 1027000.0,
+  "price": 1030000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:37190": {
-  "price": 1058000.0,
+  "price": 1061000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:23983": {
-  "price": 1077000.0,
+  "price": 1081000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:2058": {
   "price": 1103000.0,
@@ -5865,14 +5855,14 @@
   "seen": 1793890468
  },
  "maxTecno:kfq5en": {
-  "price": 1024093.0,
+  "price": 1027294.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:uxtk6v": {
-  "price": 1020651.0,
+  "price": 1023841.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:sm2skg": {
   "price": 502921.0,
@@ -5880,19 +5870,19 @@
   "seen": 1793317143
  },
  "scpHardStore:MEM688": {
-  "price": 466913.0,
+  "price": 468372.0,
   "alerted": 456.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:h85j1o": {
   "price": 457574.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:218324": {
   "price": 304742.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:PC-CUSTOM-MODELO-16": {
   "price": 2012129.0,
@@ -5902,12 +5892,12 @@
  "crosshairGaming:x2cm91": {
   "price": 294140.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:ssg7yx": {
   "price": 1265325.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:nbi5oj": {
   "price": 1738735.0,
@@ -5942,12 +5932,12 @@
  "silverHard:a8wonp": {
   "price": 251385.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM740": {
-  "price": 256515.0,
+  "price": 257317.0,
   "alerted": 272.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:903poz": {
   "price": 1042546.0,
@@ -5957,12 +5947,12 @@
  "armyTech:427236542": {
   "price": 981346.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:2chwbv": {
   "price": 1005463.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:7742": {
   "price": 1090000.0,
@@ -5990,9 +5980,9 @@
   "seen": 1794502393
  },
  "compugarden:ia89n3": {
-  "price": 482123.0,
+  "price": 483620.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:mqlrm1": {
   "price": 1085500.0,
@@ -6005,14 +5995,14 @@
   "seen": 1793598515
  },
  "clickGaming:7741": {
-  "price": 1105000.0,
+  "price": 1123000.0,
   "alerted": null,
-  "seen": 1795093209
+  "seen": 1795543689
  },
  "clickGaming:32506": {
-  "price": 1873000.0,
+  "price": 1879000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:f45btr": {
   "price": 512500.0,
@@ -6025,9 +6015,9 @@
   "seen": 1795170317
  },
  "maximus:GV-N5070GAMING-OC-12GD": {
-  "price": 1833838.0,
+  "price": 1839553.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:uu6gqr": {
   "price": 1808355.0,
@@ -6097,42 +6087,42 @@
  "black:219847": {
   "price": 1594272.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:902hw9": {
   "price": 1051600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:qdlh29": {
   "price": 983499.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:pcc0hw": {
-  "price": 1002292.0,
+  "price": 1011689.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:q2phtp": {
   "price": 985821.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:kicv34": {
-  "price": 1004658.0,
+  "price": 1014077.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:oi4jl": {
-  "price": 1037521.0,
+  "price": 1047248.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:vpw742": {
-  "price": 1089161.0,
+  "price": 1092564.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:jp7j3y": {
   "price": 139374.0,
@@ -6142,7 +6132,7 @@
  "bithard:tgpanu": {
   "price": 1070384.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:15941": {
   "price": 99000.0,
@@ -6157,22 +6147,22 @@
  "silverHard:d0gxy6": {
   "price": 1021369.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA956": {
   "price": 1016158.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:250493": {
-  "price": 1081651.0,
+  "price": 1085031.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:wubwns": {
-  "price": 1098550.0,
+  "price": 1108850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hypergaming:b397c0": {
   "price": 503141.0,
@@ -6182,7 +6172,7 @@
  "gezatek:vfr9rx": {
   "price": 899990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:380677": {
   "price": 99990.0,
@@ -6207,7 +6197,7 @@
  "logg:pmhp6c": {
   "price": 259999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:4xab7a": {
   "price": 126410.0,
@@ -6222,12 +6212,12 @@
  "fullh4rd:dveipx": {
   "price": 399968.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvegdd": {
   "price": 1051600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:7926": {
   "price": 123000.0,
@@ -6242,17 +6232,17 @@
  "mexx:iotbh4": {
   "price": 967099.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:ux2xjq": {
   "price": 399968.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:w36doa": {
-  "price": 410238.0,
+  "price": 414084.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:xgg2v": {
   "price": 176049.0,
@@ -6262,27 +6252,27 @@
  "ignatech:10408": {
   "price": 268510.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:10409": {
   "price": 268510.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8098": {
   "price": 330742.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8137": {
   "price": 396831.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:12332": {
   "price": 477604.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8581": {
   "price": 1515261.0,
@@ -6302,17 +6292,17 @@
  "ignatech:11514": {
   "price": 1032826.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:11515": {
   "price": 1030394.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "integradosargentinos:158556": {
   "price": 880119.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "integradosargentinos:127315": {
   "price": 1714284.0,
@@ -6345,19 +6335,19 @@
   "seen": 1793705033
  },
  "enjoyComputer:wc-31404": {
-  "price": 1012830.0,
+  "price": 1019160.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "megatek:289995243": {
   "price": 415280.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:wk4i0b": {
   "price": 449990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:qe9yrd": {
   "price": 162999.0,
@@ -6365,9 +6355,9 @@
   "seen": 1795019177
  },
  "amonpulTeam:du70gi": {
-  "price": 251852.0,
+  "price": 254213.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:sm4osf": {
   "price": 174999.0,
@@ -6375,9 +6365,9 @@
   "seen": 1793544945
  },
  "amonpulTeam:mqbo8r": {
-  "price": 385907.0,
+  "price": 389525.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:10508": {
   "price": 493693.0,
@@ -6387,17 +6377,17 @@
  "noxie:z01g4t": {
   "price": 949999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM673": {
-  "price": 385902.0,
+  "price": 387108.0,
   "alerted": 334.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:1fg9y5": {
   "price": 378184.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:3ny9h8": {
   "price": 1153410.0,
@@ -6472,7 +6462,7 @@
  "ignatech:8587": {
   "price": 1075968.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:11386": {
   "price": 1795332.0,
@@ -6482,12 +6472,12 @@
  "ignatech:2870": {
   "price": 74243.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:2871": {
   "price": 84349.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:18467": {
   "price": 103590.0,
@@ -6502,37 +6492,37 @@
  "auragamer:hrc8ag": {
   "price": 261868.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:l85e8b": {
-  "price": 266872.0,
+  "price": 269374.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bithard:uhbmdi": {
   "price": 281699.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:38629": {
   "price": 297000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:c9mm33": {
-  "price": 387988.0,
+  "price": 391626.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:amh8m6": {
   "price": 449990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:38634": {
-  "price": 486000.0,
+  "price": 487000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:69qa0o": {
   "price": 493315.0,
@@ -6545,9 +6535,9 @@
   "seen": 1793257760
  },
  "megasoft:ijjbu1": {
-  "price": 1476000.0,
+  "price": 1494450.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:220797": {
   "price": 1280729.0,
@@ -6560,24 +6550,24 @@
   "seen": 1793111113
  },
  "crosshairGaming:bxvxb1": {
-  "price": 280364.0,
+  "price": 282116.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:fjrc0r": {
-  "price": 289112.0,
+  "price": 290015.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:cau897": {
-  "price": 275768.0,
+  "price": 277492.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:257852": {
-  "price": 322471.0,
+  "price": 323479.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:45l6pc": {
   "price": 488720.0,
@@ -6607,37 +6597,37 @@
  "ignatech:12381": {
   "price": 279228.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:jwtutb": {
-  "price": 1842922.0,
+  "price": 1791578.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:x5ylsa": {
-  "price": 387988.0,
+  "price": 390413.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:qakm4n": {
-  "price": 1491453.0,
+  "price": 1505436.0,
   "alerted": 1399178.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:1hjpls": {
-  "price": 1507757.0,
+  "price": 1521892.0,
   "alerted": 1507757.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:jx3e1p": {
   "price": 1507747.0,
   "alerted": 1385090.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8606": {
   "price": 1507765.0,
   "alerted": 1498341.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:tygfuf": {
   "price": 989100.0,
@@ -6647,22 +6637,22 @@
  "gezatek:u1u3f5": {
   "price": 1649990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:qut0ib": {
   "price": 1649990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:pvm0k6": {
   "price": 1699990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:5frf2e": {
   "price": 1749990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:wcabvu": {
   "price": 1799990.0,
@@ -6675,44 +6665,44 @@
   "seen": 1795019177
  },
  "gorilaGames:lq29qh": {
-  "price": 289100.0,
+  "price": 291850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfu21": {
   "price": 1507747.0,
   "alerted": 1507747.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA623": {
   "price": 1483434.0,
   "alerted": 1474163.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:w0e2v9": {
-  "price": 1529696.0,
+  "price": 1539257.0,
   "alerted": 1529696.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:yg79jv": {
-  "price": 1644834.0,
+  "price": 1649974.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:2134": {
-  "price": 1576000.0,
+  "price": 1581000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:79o6fd": {
-  "price": 1576299.0,
+  "price": 1591077.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:hi7bde": {
-  "price": 1629610.0,
+  "price": 1634671.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf3dw": {
   "price": 989100.0,
@@ -6722,22 +6712,22 @@
  "gezatek:4iapex": {
   "price": 999990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:w4yvhi": {
   "price": 1799990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:uiomks": {
   "price": 1491042.0,
   "alerted": 1477063.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:221095": {
   "price": 1763799.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:2048": {
   "price": 826000.0,
@@ -6747,7 +6737,7 @@
  "shopGamer:cerqqx": {
   "price": 1643885.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:qin1u": {
   "price": 1013600.0,
@@ -6767,7 +6757,7 @@
  "mexx:5vfktz": {
   "price": 1757159.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:k6dkjl": {
   "price": 490050.0,
@@ -6790,14 +6780,14 @@
   "seen": 1793377909
  },
  "hardcore:wc-112461": {
-  "price": 473475.0,
+  "price": 477900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hfTecnologia:wc-1883": {
   "price": 99990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:thvz3h": {
   "price": 1099458.0,
@@ -6812,12 +6802,12 @@
  "logg:1a1hhf": {
   "price": 799999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:50hx5e": {
   "price": 1752521.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:212821": {
   "price": 4143846.0,
@@ -6832,67 +6822,67 @@
  "silverHard:iz4xfy": {
   "price": 1808875.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:dypp3y": {
-  "price": 1012921.0,
+  "price": 1019252.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:1gxqzv": {
-  "price": 1028521.0,
+  "price": 1034949.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:okhqv": {
-  "price": 1030948.0,
+  "price": 1037392.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:r6msx2": {
-  "price": 1079773.0,
+  "price": 1083147.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:7qjduk": {
-  "price": 1812549.0,
+  "price": 1818209.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:9118": {
   "price": 990999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:15366": {
-  "price": 1071999.0,
+  "price": 1094999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "katech:h4zu7f": {
-  "price": 405610.0,
+  "price": 408090.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:movqu6": {
-  "price": 1846319.0,
+  "price": 1869539.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:on3zzg": {
   "price": 1862431.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf18a": {
   "price": 1862431.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA641": {
   "price": 1799646.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:wigok7": {
   "price": 1914309.0,
@@ -6910,9 +6900,9 @@
   "seen": 1793730892
  },
  "clickGaming:32505": {
-  "price": 1882000.0,
+  "price": 1888000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:wp9k3l": {
   "price": 278550.0,
@@ -6950,14 +6940,14 @@
   "seen": 1794422857
  },
  "enjoyComputer:wc-37216": {
-  "price": 1859370.0,
+  "price": 1870990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bithard:stwb7a": {
   "price": 1901295.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:diy1al": {
   "price": 117990.0,
@@ -6987,7 +6977,7 @@
  "black:205624": {
   "price": 213785.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32198": {
   "price": 179810.0,
@@ -6997,7 +6987,7 @@
  "compufanStore:4711636055338": {
   "price": 148950.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "dinobyte:gvnst5": {
   "price": 194700.0,
@@ -7012,42 +7002,42 @@
  "compufanStore:4711636601382": {
   "price": 1233300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4711636335645": {
   "price": 926850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4711636014175": {
   "price": 1038750.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:tualgi": {
   "price": 984974.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4711636046220": {
   "price": 1657550.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:fg55dg": {
   "price": 1780000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA968": {
-  "price": 1816805.0,
+  "price": 1822482.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "auragamer:sghd1f": {
   "price": 1876628.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:j1uo6y": {
   "price": 1912488.0,
@@ -7055,9 +7045,9 @@
   "seen": 1795501461
  },
  "netGaming:181625": {
-  "price": 1921309.0,
+  "price": 1861980.0,
   "alerted": null,
-  "seen": 1795220389
+  "seen": 1795543689
  },
  "crosshairGaming:75kwgn": {
   "price": 1910139.0,
@@ -7067,7 +7057,7 @@
  "hfTecnologia:wc-3546": {
   "price": 839990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-14169": {
   "price": 958340.0,
@@ -7077,7 +7067,7 @@
  "hfTecnologia:wc-3540": {
   "price": 949990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:7t6l9l": {
   "price": 1924400.0,
@@ -7085,24 +7075,24 @@
   "seen": 1795200265
  },
  "hydraxtreme:5ge1js": {
-  "price": 1917950.0,
+  "price": 1852950.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:geiwp8": {
   "price": 1849990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:9ak5ku": {
   "price": 1896479.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:7919": {
-  "price": 1903999.0,
+  "price": 1879999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:9h2xh5": {
   "price": 70502.0,
@@ -7112,7 +7102,7 @@
  "gamingCity:17848": {
   "price": 301500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:17827": {
   "price": 382500.0,
@@ -7120,14 +7110,14 @@
   "seen": 1794845402
  },
  "gorilaGames:o5az0h": {
-  "price": 405950.0,
+  "price": 409750.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:cwuvfb": {
-  "price": 405377.0,
+  "price": 409178.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:14103": {
   "price": 464759.0,
@@ -7152,12 +7142,12 @@
  "scpHardStore:VGA593": {
   "price": 949935.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:12159": {
   "price": 975278.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:yffy6w": {
   "price": 987081.0,
@@ -7165,19 +7155,19 @@
   "seen": 1793057335
  },
  "gamingPoint:430czz": {
-  "price": 1009402.0,
+  "price": 1018866.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA595": {
   "price": 1631246.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:12157": {
   "price": 1674745.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:q76bi9": {
   "price": 1736600.0,
@@ -7185,9 +7175,9 @@
   "seen": 1793627829
  },
  "maximus:9VN5070EO-00-G10": {
-  "price": 1782318.0,
+  "price": 1787764.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:3ej95f": {
   "price": 89990.0,
@@ -7195,9 +7185,9 @@
   "seen": 1794471326
  },
  "gamerfactory:txb2a3": {
-  "price": 184400.0,
+  "price": 185000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:lihzq4": {
   "price": 377900.0,
@@ -7205,19 +7195,19 @@
   "seen": 1795473365
  },
  "bracatech:uva9mn": {
-  "price": 383391.0,
+  "price": 385787.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:z6gjz7": {
-  "price": 383391.0,
+  "price": 386985.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:w6p94e": {
-  "price": 425990.0,
+  "price": 427321.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:7ene40": {
   "price": 1498453.0,
@@ -7245,9 +7235,9 @@
   "seen": 1793057335
  },
  "bracatech:z7cpka": {
-  "price": 1007261.0,
+  "price": 1013557.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:bxsyq8": {
   "price": 915016.0,
@@ -7255,9 +7245,9 @@
   "seen": 1793057335
  },
  "crosshairGaming:r3iw7p": {
-  "price": 955070.0,
+  "price": 964024.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:rv5gab": {
   "price": 938738.0,
@@ -7267,32 +7257,32 @@
  "silverHard:5yqli8": {
   "price": 954806.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:mm4yh8": {
-  "price": 979559.0,
+  "price": 985682.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:hx9wc0": {
   "price": 1639611.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:wk861i": {
-  "price": 1682117.0,
+  "price": 1692630.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:w9vokx": {
-  "price": 320692.0,
+  "price": 321694.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:9cdlkw": {
-  "price": 1379558.0,
+  "price": 1383869.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:utvm6e": {
   "price": 1111795.0,
@@ -7317,7 +7307,7 @@
  "shopGamer:2na3wv": {
   "price": 412009.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:4ekqmt": {
   "price": 1651593.0,
@@ -7372,7 +7362,7 @@
  "crosshairGaming:3wtn0e": {
   "price": 1169652.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:vffr1y": {
   "price": 2119838.0,
@@ -7410,9 +7400,9 @@
   "seen": 1793023079
  },
  "gorilaGames:uhlm57": {
-  "price": 1066550.0,
+  "price": 1076550.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:12432": {
   "price": 972494.0,
@@ -7427,7 +7417,7 @@
  "compufanStore:4711581490475": {
   "price": 1459800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4713436175964": {
   "price": 963600.0,
@@ -7457,7 +7447,7 @@
  "noxie:ktrl47": {
   "price": 1582531.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:dauajo": {
   "price": 929999.0,
@@ -7467,7 +7457,7 @@
  "noxie:t8vesl": {
   "price": 929999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:47vckm": {
   "price": 1933204.0,
@@ -7477,7 +7467,7 @@
  "fullh4rd:dvdx47": {
   "price": 473560.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "liontech:7fozir": {
   "price": 96000.0,
@@ -7502,12 +7492,12 @@
  "katech:mjqwml": {
   "price": 277820.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:cbfkg": {
-  "price": 445227.0,
+  "price": 448010.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:aymxhr": {
   "price": 490597.0,
@@ -7517,7 +7507,7 @@
  "hydraxtreme:kob04v": {
   "price": 1700000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:cydntk": {
   "price": 59990.0,
@@ -7530,9 +7520,9 @@
   "seen": 1793057335
  },
  "gorilaGames:fq9508": {
-  "price": 1037250.0,
+  "price": 1046950.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:ipxtc6": {
   "price": 1073300.0,
@@ -7560,19 +7550,19 @@
   "seen": 1793544945
  },
  "compugarden:3bvnx0": {
-  "price": 282869.0,
+  "price": 283747.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:x6xii1": {
-  "price": 282869.0,
+  "price": 283747.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:fpl35j": {
-  "price": 293543.0,
+  "price": 294455.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8586": {
   "price": 1941532.0,
@@ -7690,9 +7680,9 @@
   "seen": 1794310350
  },
  "mmcomputacion:9i2j4f": {
-  "price": 447100.0,
+  "price": 451300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:m0j2n4": {
   "price": 858450.0,
@@ -7702,7 +7692,7 @@
  "compel:mf7m5b": {
   "price": 1045951.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:j53niq": {
   "price": 243150.0,
@@ -7732,7 +7722,7 @@
  "logg:z9c4ju": {
   "price": 214999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:qgbn1u": {
   "price": 999999.0,
@@ -7742,7 +7732,7 @@
  "logg:qrsxwc": {
   "price": 999999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222128": {
   "price": 292563.0,
@@ -7750,14 +7740,14 @@
   "seen": 1793394050
  },
  "gamerfactory:jukzdb": {
-  "price": 1546000.0,
+  "price": 1550900.0,
   "alerted": 1546000.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:mnkvcn": {
-  "price": 1640063.0,
+  "price": 1655439.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:205622": {
   "price": 137071.0,
@@ -7782,7 +7772,7 @@
  "shopGamer:bizrgk": {
   "price": 1052677.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:u8ajcg": {
   "price": 1117450.0,
@@ -7790,19 +7780,19 @@
   "seen": 1795501461
  },
  "gamingPoint:3vqr0s": {
-  "price": 1733364.0,
+  "price": 1749614.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:sf5z0d": {
   "price": 1807674.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222269": {
   "price": 314022.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:7shz1p": {
   "price": 999999.0,
@@ -7815,14 +7805,14 @@
   "seen": 1793111113
  },
  "mmcomputacion:bhfkwa": {
-  "price": 1060100.0,
+  "price": 1070050.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:3d2po0": {
   "price": 949167.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:213599": {
   "price": 217924.0,
@@ -7832,7 +7822,7 @@
  "compel:3vaaox": {
   "price": 270405.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hydraxtreme:vm0xzt": {
   "price": 1633400.0,
@@ -7845,14 +7835,14 @@
   "seen": 1793283654
  },
  "tryHardware:hqwvh9": {
-  "price": 1670729.0,
+  "price": 1793389.0,
   "alerted": null,
-  "seen": 1793283654
+  "seen": 1795543689
  },
  "mexx:j3uosh": {
   "price": 348299.0,
   "alerted": 320799.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:xfqai8": {
   "price": 479600.0,
@@ -7867,17 +7857,17 @@
  "acuarioInsumos:xvy5qk": {
   "price": 432834.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222387": {
   "price": 435740.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "spaceVideojuegos:qyrggh": {
   "price": 1000000.0,
   "alerted": 969000.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222424": {
   "price": 1366256.0,
@@ -7887,12 +7877,12 @@
  "maximus:912-V537-018": {
   "price": 1039603.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "integradosargentinos:126929": {
   "price": 1006951.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:r3jarr": {
   "price": 176000.0,
@@ -7907,7 +7897,7 @@
  "ignatech:13168": {
   "price": 274863.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-19709": {
   "price": 442260.0,
@@ -7925,9 +7915,9 @@
   "seen": 1793142620
  },
  "compugarden:iwdnsm": {
-  "price": 1030070.0,
+  "price": 1033269.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:s9c1w8": {
   "price": 976721.0,
@@ -7942,17 +7932,17 @@
  "noxie:vz7k9o": {
   "price": 1634525.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:125102": {
-  "price": 1791503.0,
+  "price": 1797067.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:193022": {
-  "price": 277532.0,
+  "price": 278394.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:37579": {
   "price": 489228.0,
@@ -7960,9 +7950,9 @@
   "seen": 1793200800
  },
  "noxie:a8t9ys": {
-  "price": 184999.0,
+  "price": 166500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:hnpr1e": {
   "price": 296999.0,
@@ -8000,19 +7990,19 @@
   "seen": 1792971254
  },
  "compugarden:7ebh6w": {
-  "price": 1046081.0,
+  "price": 1049330.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "integradosargentinos:158470": {
   "price": 1038093.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:c1oi8d": {
-  "price": 1044302.0,
+  "price": 1047546.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:3vlksf": {
   "price": 1083540.0,
@@ -8027,7 +8017,7 @@
  "rminsumos:3644": {
   "price": 1089999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222540": {
   "price": 1171252.0,
@@ -8212,7 +8202,7 @@
  "black:222831": {
   "price": 333384.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222678": {
   "price": 1435012.0,
@@ -8350,9 +8340,9 @@
   "seen": 1793111113
  },
  "clickGaming:37199": {
-  "price": 1042000.0,
+  "price": 1045000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:q39ak2": {
   "price": 534930.0,
@@ -8375,9 +8365,9 @@
   "seen": 1793659291
  },
  "portalTech:cf6tfv": {
-  "price": 1000000.0,
+  "price": 1090000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:19ddq1": {
   "price": 87459.0,
@@ -8472,32 +8462,32 @@
  "silverHard:jdaple": {
   "price": 253577.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM807": {
-  "price": 258752.0,
+  "price": 259561.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:kckqbt": {
   "price": 244711.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM809": {
-  "price": 249705.0,
+  "price": 250486.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:x9rbzw": {
   "price": 407359.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:MEM808": {
-  "price": 415672.0,
+  "price": 416971.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvv1hi": {
   "price": 144790.0,
@@ -8577,7 +8567,7 @@
  "mexx:9t1mz9": {
   "price": 149999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:wes7b0": {
   "price": 237587.0,
@@ -8602,7 +8592,7 @@
  "katech:hwu7bg": {
   "price": 266260.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:oped89": {
   "price": 493410.0,
@@ -8617,7 +8607,7 @@
  "auragamer:1lbv1f": {
   "price": 1455395.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardloots:h9o88q": {
   "price": 1469301.0,
@@ -8652,22 +8642,22 @@
  "wiztech:beqtiz": {
   "price": 885000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:2rj7vc": {
   "price": 939000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:la9kav": {
   "price": 989000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "wiztech:4v55dp": {
   "price": 999000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:252359302": {
   "price": 1640851.0,
@@ -8690,9 +8680,9 @@
   "seen": 1793283654
  },
  "mmcomputacion:m9bqp8": {
-  "price": 1033750.0,
+  "price": 1043500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:GV-N5060GAMING-OC-8GD": {
   "price": 1063620.0,
@@ -8717,7 +8707,7 @@
  "katech:srl2co": {
   "price": 305920.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "backupComputacion:3dd9r2": {
   "price": 332400.0,
@@ -8787,12 +8777,12 @@
  "spaceVideojuegos:xxyqx3": {
   "price": 976000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:7704": {
-  "price": 1743000.0,
+  "price": 1748000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:38161": {
   "price": 305000.0,
@@ -8802,7 +8792,7 @@
  "hypergaming:xulfb5": {
   "price": 459200.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:4u7dd3": {
   "price": 390997.0,
@@ -8905,14 +8895,14 @@
   "seen": 1793407375
  },
  "enjoyComputer:wc-44078": {
-  "price": 276660.0,
+  "price": 279230.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:codu4a": {
   "price": 269999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:8hefln": {
   "price": 457990.0,
@@ -8947,7 +8937,7 @@
  "maximus:4711377344326": {
   "price": 1007995.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-27337": {
   "price": 1082180.0,
@@ -8955,9 +8945,9 @@
   "seen": 1794592918
  },
  "enjoyComputer:wc-14173": {
-  "price": 1104440.0,
+  "price": 1111140.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:90YV0M17-MVAA00": {
   "price": 1649970.0,
@@ -8967,12 +8957,12 @@
  "wiztech:4se7rz": {
   "price": 1895000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:ek8wxe": {
-  "price": 208204.0,
+  "price": 209506.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222363": {
   "price": 54718.0,
@@ -8987,7 +8977,7 @@
  "xtpc:irrr23": {
   "price": 291587.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:g7tvtl": {
   "price": 380000.0,
@@ -8997,7 +8987,7 @@
  "diamond:3484": {
   "price": 1030000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:18750": {
   "price": 61829.0,
@@ -9017,17 +9007,17 @@
  "diamond:2690": {
   "price": 1017500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "diamond:3300": {
   "price": 1039700.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "diamond:2691": {
   "price": 1040700.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "diamond:3476": {
   "price": 1900600.0,
@@ -9092,7 +9082,7 @@
  "fullh4rd:dvtrd6": {
   "price": 291587.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvdvry": {
   "price": 799000.0,
@@ -9172,37 +9162,37 @@
  "tryHardware:physi1": {
   "price": 269349.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:irvtcg": {
-  "price": 266130.0,
+  "price": 268625.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:item-16044": {
   "price": 322873.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:le2d2c": {
-  "price": 391355.0,
+  "price": 393801.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:y6qrxb": {
-  "price": 459720.0,
+  "price": 462593.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:5tnsey": {
-  "price": 483123.0,
+  "price": 486143.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-113137": {
-  "price": 481500.0,
+  "price": 486000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:zers2q": {
   "price": 979999.0,
@@ -9225,24 +9215,24 @@
   "seen": 1793490381
  },
  "amonpulTeam:4hoim": {
-  "price": 261076.0,
+  "price": 262708.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:lg2cwh": {
-  "price": 266130.0,
+  "price": 268625.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:65euvy": {
-  "price": 276756.0,
+  "price": 279351.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:39261": {
-  "price": 280000.0,
+  "price": 281000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:pxvwmn": {
   "price": 495594.0,
@@ -9252,7 +9242,7 @@
  "maximus:item-20788": {
   "price": 1291133.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:6afexm": {
   "price": 1026073.0,
@@ -9352,7 +9342,7 @@
  "gamingCity:18616": {
   "price": 386999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:7hu6ug": {
   "price": 1255957.0,
@@ -9682,7 +9672,7 @@
  "armyTech:1483433088": {
   "price": 24999.0,
   "alerted": 24999.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:207444": {
   "price": 66209.0,
@@ -9725,9 +9715,9 @@
   "seen": 1794874515
  },
  "black:213664": {
-  "price": 201845.0,
+  "price": 202473.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1827223553": {
   "price": 494999.0,
@@ -9737,22 +9727,22 @@
  "maximus:306-7ZPBZ23-CE0": {
   "price": 99916.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:730143316309": {
   "price": 278942.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:100-100000651POF": {
   "price": 715838.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:730143314930": {
   "price": 781020.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:90YV0LZ0-M0AA00": {
   "price": 1699983.0,
@@ -9777,7 +9767,7 @@
  "black:214230": {
   "price": 34110.0,
   "alerted": 34110.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:gtkj0f": {
   "price": 496886.0,
@@ -9900,9 +9890,9 @@
   "seen": 1794845402
  },
  "gamerfactory:f95yts": {
-  "price": 309700.0,
+  "price": 310700.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:o0cmpn": {
   "price": 1473990.0,
@@ -9910,24 +9900,24 @@
   "seen": 1795042927
  },
  "rminsumos:17186": {
-  "price": 1001999.0,
+  "price": 1023999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:l499ft": {
   "price": 1055102.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:17184": {
-  "price": 1720999.0,
+  "price": 1758999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:k4m5h3": {
-  "price": 1781150.0,
+  "price": 1797850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:306-7ZPTX27-HD8": {
   "price": 103447.0,
@@ -9942,7 +9932,7 @@
  "black:216991": {
   "price": 105062.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:217048": {
   "price": 85960.0,
@@ -9957,12 +9947,12 @@
  "maximus:10840006653858": {
   "price": 276442.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:4719072870485": {
   "price": 81647.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:4719331555160": {
   "price": 76986.0,
@@ -9972,7 +9962,7 @@
  "maximus:840006654001": {
   "price": 351499.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:GP-UD850GM-PG5-V2": {
   "price": 164997.0,
@@ -9982,7 +9972,7 @@
  "armyTech:174922384": {
   "price": 76999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:2100026904": {
   "price": 62999.0,
@@ -10067,22 +10057,22 @@
  "crosshairGaming:gl0xl": {
   "price": 274660.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:e8m31y": {
   "price": 332669.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:3x7koq": {
   "price": 357168.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:g2cy41": {
   "price": 453039.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:102134": {
   "price": 1400212.0,
@@ -10100,9 +10090,9 @@
   "seen": 1793817826
  },
  "megasoft:ffczzj": {
-  "price": 469440.0,
+  "price": 475308.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:myaoll": {
   "price": 469854.0,
@@ -10112,7 +10102,7 @@
  "gamingCity:14100": {
   "price": 485100.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:7805": {
   "price": 1566999.0,
@@ -10120,29 +10110,29 @@
   "seen": 1794809950
  },
  "mmcomputacion:nsqonm": {
-  "price": 1665800.0,
+  "price": 1681450.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:223817": {
-  "price": 1365380.0,
+  "price": 1373946.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:m19ol7": {
   "price": 983073.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:hmksg3": {
   "price": 1688153.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:ebc10k": {
-  "price": 1771200.0,
+  "price": 1787850.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:198704": {
   "price": 100380.0,
@@ -10155,14 +10145,14 @@
   "seen": 1793749168
  },
  "enjoyComputer:wc-44484": {
-  "price": 410030.0,
+  "price": 413840.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:KF560C36BBEA-8": {
-  "price": 412609.0,
+  "price": 413859.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "megasoft:q78q0h": {
   "price": 484011.0,
@@ -10175,14 +10165,14 @@
   "seen": 1795200265
  },
  "enjoyComputer:wc-44480": {
-  "price": 1035300.0,
+  "price": 1044910.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-44481": {
-  "price": 1670210.0,
+  "price": 1685250.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:fhmoen": {
   "price": 230409.0,
@@ -10227,7 +10217,7 @@
  "maximus:VEU532G6436K": {
   "price": 1121674.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "dinobyte:iuryjm": {
   "price": 250400.0,
@@ -10347,42 +10337,42 @@
  "netGaming:257992": {
   "price": 1269715.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvef0f": {
   "price": 983073.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:h7wto7": {
-  "price": 1014303.0,
+  "price": 1023812.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:49gq10": {
   "price": 977970.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:manujc": {
-  "price": 1040311.0,
+  "price": 1046813.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-37233": {
-  "price": 992290.0,
+  "price": 998490.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:3gizxc": {
   "price": 1603782.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf5rw": {
   "price": 1688153.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:szhtmv": {
   "price": 1640021.0,
@@ -10400,14 +10390,14 @@
   "seen": 1793981665
  },
  "maxTecno:s044vx": {
-  "price": 431098.0,
+  "price": 432445.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:p5zqyl": {
-  "price": 444133.0,
+  "price": 445521.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:18631": {
   "price": 485991.0,
@@ -10422,7 +10412,7 @@
  "liontech:vt8hn2": {
   "price": 1616000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:tq6t0t": {
   "price": 875500.0,
@@ -10450,9 +10440,9 @@
   "seen": 1793890468
  },
  "maxTecno:hjxnfd": {
-  "price": 1869019.0,
+  "price": 1874859.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:3bwf8f": {
   "price": 99999.0,
@@ -10527,7 +10517,7 @@
  "maximus:911-7E28-020": {
   "price": 143364.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:911-7E30-009": {
   "price": 198369.0,
@@ -10552,12 +10542,12 @@
  "maximus:Lovingcool-AK-B240-03-black": {
   "price": 101094.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:Lovingcool-Hk-W360-02-White": {
   "price": 101094.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:MPX-8503-AFAG-2EBAR": {
   "price": 172776.0,
@@ -10625,9 +10615,9 @@
   "seen": 1793860065
  },
  "gamingPoint:fz940f": {
-  "price": 353451.0,
+  "price": 357870.0,
   "alerted": null,
-  "seen": 1795200265
+  "seen": 1795543689
  },
  "acuarioInsumos:41gsad": {
   "price": 1088479.0,
@@ -10817,7 +10807,7 @@
  "fullh4rd:dveeal": {
   "price": 977970.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:197325": {
   "price": 685157.0,
@@ -10852,7 +10842,7 @@
  "ignatech:13346": {
   "price": 1043657.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "dinobyte:xzdyf5": {
   "price": 563400.0,
@@ -10885,9 +10875,9 @@
   "seen": 1794502393
  },
  "enjoyComputer:wc-44933": {
-  "price": 461520.0,
+  "price": 463920.0,
   "alerted": null,
-  "seen": 1795431899
+  "seen": 1795543689
  },
  "maximus:90-GA5VZZ-00UANZ-Blackbox": {
   "price": 1543500.0,
@@ -10897,12 +10887,12 @@
  "netGaming:252851": {
   "price": 997139.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:254058": {
   "price": 1016917.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:wytqic": {
   "price": 1032753.0,
@@ -10912,17 +10902,17 @@
  "netGaming:239328": {
   "price": 1776942.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:252019": {
   "price": 1837734.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:c8uhtq": {
   "price": 145125.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "diamond:953": {
   "price": 42000.0,
@@ -10947,22 +10937,22 @@
  "wiztech:oisojl": {
   "price": 2589000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:wuejuk": {
   "price": 242517.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:249823": {
   "price": 285740.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:345boe": {
   "price": 459200.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:PSU458": {
   "price": 238580.0,
@@ -10972,12 +10962,12 @@
  "wiztech:vvliuj": {
   "price": 1149000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:a7lo4i": {
-  "price": 1138600.0,
+  "price": 1149300.0,
   "alerted": 1127900.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:13917": {
   "price": 1109999.0,
@@ -10987,17 +10977,17 @@
  "scpHardStore:VGA501": {
   "price": 1110203.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA525": {
-  "price": 1106151.0,
+  "price": 1118393.0,
   "alerted": null,
-  "seen": 1795093209
+  "seen": 1795543689
  },
  "amonpulTeam:u0jhr0": {
-  "price": 1736073.0,
+  "price": 1746924.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:8193": {
   "price": 284999.0,
@@ -11032,7 +11022,7 @@
  "netGaming:253044": {
   "price": 1002959.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:239362": {
   "price": 1022828.0,
@@ -11042,12 +11032,12 @@
  "netGaming:250288": {
   "price": 1032691.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:252103": {
   "price": 1828375.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvtsst": {
   "price": 103276.0,
@@ -11057,12 +11047,12 @@
  "fullh4rd:dvdwhu": {
   "price": 242517.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvdwht": {
   "price": 459200.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:9fujv2": {
   "price": 598367.0,
@@ -11117,7 +11107,7 @@
  "maximus:6950376704894": {
   "price": 165834.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:718037891392": {
   "price": 662540.0,
@@ -11132,7 +11122,7 @@
  "maximus:90MB1IS0-MVAAY0": {
   "price": 413439.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:912-V531-461": {
   "price": 2338425.0,
@@ -11190,14 +11180,14 @@
   "seen": 1794395896
  },
  "gamerfactory:tog74p": {
-  "price": 1112400.0,
+  "price": 1115900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:j70flq": {
   "price": 1900943.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gezatek:pr692b": {
   "price": 52990.0,
@@ -11222,7 +11212,7 @@
  "maximus:CM-W930-SF": {
   "price": 113157.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:CMH16GX5M1D6000Z38": {
   "price": 573534.0,
@@ -11262,7 +11252,7 @@
  "maximus:PC-ML21-ARMADA-GAMER": {
   "price": 1127076.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:PC-ML3-ARMADA-GAMER": {
   "price": 704862.0,
@@ -11272,12 +11262,12 @@
  "maximus:PC-ML4-ARMADA-GAMER": {
   "price": 1055399.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:VEUR516G6036": {
   "price": 728990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:WDS100T1X0M": {
   "price": 530015.0,
@@ -11317,7 +11307,7 @@
  "maximus:PC-ML6-ARMADA-GAMER": {
   "price": 1126742.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:100-00002235WOF": {
   "price": 620816.0,
@@ -11330,14 +11320,14 @@
   "seen": 1794845402
  },
  "scpHardStore:VGA977": {
-  "price": 1008849.0,
+  "price": 1012002.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:7ra4g4": {
-  "price": 1072005.0,
+  "price": 1082055.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hardcore:wc-113519": {
   "price": 47400.0,
@@ -11382,7 +11372,7 @@
  "silverHard:dy5e1b": {
   "price": 1014023.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:234491": {
   "price": 5299612.0,
@@ -11492,7 +11482,7 @@
  "xtpc:5icmz3": {
   "price": 473560.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:212950": {
   "price": 1241202.0,
@@ -11670,9 +11660,9 @@
   "seen": 1794592918
  },
  "maximus:item-14890": {
-  "price": 262334.0,
+  "price": 263138.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:32491": {
   "price": 191000.0,
@@ -11787,12 +11777,12 @@
  "armyTech:1241488211": {
   "price": 897910.0,
   "alerted": 883499.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mmcomputacion:ihxh9a": {
-  "price": 1025650.0,
+  "price": 1035300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:51xgb7": {
   "price": 341406.0,
@@ -12012,7 +12002,7 @@
  "diamond:3643": {
   "price": 298800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:37625": {
   "price": 295322.0,
@@ -12020,9 +12010,9 @@
   "seen": 1795501461
  },
  "goldenTech:nlab5t": {
-  "price": 1590006.0,
+  "price": 1594975.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:r6oqi0": {
   "price": 1602947.0,
@@ -12030,9 +12020,9 @@
   "seen": 1795200265
  },
  "goldenTech:iury7q": {
-  "price": 1122549.0,
+  "price": 1126057.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:lo3i7r": {
   "price": 851900.0,
@@ -12040,14 +12030,14 @@
   "seen": 1794566020
  },
  "goldenTech:33ddlr": {
-  "price": 1018180.0,
+  "price": 1021362.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:a45kzo": {
-  "price": 1748437.0,
+  "price": 1753901.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "dinobyte:vcfany": {
   "price": 29800.0,
@@ -12150,29 +12140,29 @@
   "seen": 1795501461
  },
  "katech:y80iq8": {
-  "price": 279400.0,
+  "price": 281110.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:d3u9kd": {
   "price": 1478351.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:77065444": {
   "price": 887836.0,
   "alerted": 819057.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:769163570": {
   "price": 853026.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1451941642": {
   "price": 991640.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:90YV0MP0-M0AA00": {
   "price": 1082552.0,
@@ -12192,17 +12182,17 @@
  "slotOne:hp25zz": {
   "price": 1556074.0,
   "alerted": 1556074.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:9xjwkr": {
   "price": 1020954.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:fq4s2f": {
   "price": 1020954.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:veoo2h": {
   "price": 325810.0,
@@ -12220,9 +12210,9 @@
   "seen": 1794809950
  },
  "enjoyComputer:wc-37228": {
-  "price": 1777790.0,
+  "price": 1788400.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:18934": {
   "price": 322200.0,
@@ -12295,9 +12285,9 @@
   "seen": 1794874515
  },
  "clickGaming:38803": {
-  "price": 1009000.0,
+  "price": 1013000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:pme2k2": {
   "price": 145080.0,
@@ -12307,7 +12297,7 @@
  "slotOne:mc0pln": {
   "price": 1725060.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:S78-440N070-P83": {
   "price": 69939.0,
@@ -12567,17 +12557,17 @@
  "noxie:aprr7z": {
   "price": 268139.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:lo0ocl": {
   "price": 268139.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "noxie:11839v": {
   "price": 1140151.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:3cquee": {
   "price": 949990.0,
@@ -12590,9 +12580,9 @@
   "seen": 1795042927
  },
  "goldenTech:etclub": {
-  "price": 1928611.0,
+  "price": 1874910.0,
   "alerted": null,
-  "seen": 1795200265
+  "seen": 1795543689
  },
  "netGaming:240331": {
   "price": 468435.0,
@@ -12622,7 +12612,7 @@
  "acuarioInsumos:ju1yl": {
   "price": 473903.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:cejmda": {
   "price": 443910.0,
@@ -12705,9 +12695,9 @@
   "seen": 1794985673
  },
  "armyTech:1977017077": {
-  "price": 250301.0,
+  "price": 238794.0,
   "alerted": null,
-  "seen": 1795042927
+  "seen": 1795543689
  },
  "mexx:ru06ip": {
   "price": 992909.0,
@@ -12732,7 +12722,7 @@
  "compufanStore:4719512146040": {
   "price": 93650.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:ouc3t0": {
   "price": 859999.0,
@@ -12772,17 +12762,17 @@
  "logg:bblr9t": {
   "price": 949999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:jdfq2m": {
   "price": 969999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compufanStore:4711377340281": {
   "price": 976900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:1ribcj": {
   "price": 1039999.0,
@@ -12790,9 +12780,9 @@
   "seen": 1795042927
  },
  "slotOne:nkj866": {
-  "price": 1089779.0,
+  "price": 1099996.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:a3pz3e": {
   "price": 1499999.0,
@@ -12870,9 +12860,9 @@
   "seen": 1795042927
  },
  "gorilaGames:sa0tpc": {
-  "price": 97900.0,
+  "price": 98800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "bracatech:jr2ys9": {
   "price": 89823.0,
@@ -12880,14 +12870,14 @@
   "seen": 1795042927
  },
  "clickGaming:37007": {
-  "price": 99000.0,
+  "price": 100000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:fbq6t3": {
-  "price": 91680.0,
+  "price": 92541.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:uu60m1": {
   "price": 92800.0,
@@ -12955,9 +12945,9 @@
   "seen": 1795384530
  },
  "gamingPoint:sdipeu": {
-  "price": 127195.0,
+  "price": 128388.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1810742636": {
   "price": 509443.0,
@@ -12980,9 +12970,9 @@
   "seen": 1795501461
  },
  "crosshairGaming:1dpq6v": {
-  "price": 117306.0,
+  "price": 118406.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:r5hast": {
   "price": 131435.0,
@@ -13090,9 +13080,9 @@
   "seen": 1795042927
  },
  "maxTecno:4qzqxy": {
-  "price": 1074303.0,
+  "price": 1077660.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:mvo9vi": {
   "price": 854990.0,
@@ -13122,7 +13112,7 @@
  "hypergaming:jmuh6q": {
   "price": 972499.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:aeafz4": {
   "price": 959990.0,
@@ -13137,7 +13127,7 @@
  "netGaming:249877": {
   "price": 992971.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:9b8yep": {
   "price": 1599990.0,
@@ -13392,7 +13382,7 @@
  "logg:3v5c6k": {
   "price": 1699999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:w1fren": {
   "price": 1700999.0,
@@ -13422,12 +13412,12 @@
  "diamond:2168": {
   "price": 122300.0,
   "alerted": 122300.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "diamond:2167": {
   "price": 114600.0,
   "alerted": 114600.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:ac4tts": {
   "price": 216283.0,
@@ -13462,7 +13452,7 @@
  "gezatek:1o85la": {
   "price": 1099990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:lldyxs": {
   "price": 1099999.0,
@@ -13472,7 +13462,7 @@
  "logg:odfz4t": {
   "price": 1100000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "portalTech:w76sqe": {
   "price": 1100000.0,
@@ -13482,7 +13472,7 @@
  "diamond:2814": {
   "price": 1101600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "venex:1kyc3u": {
   "price": 1769990.0,
@@ -13655,14 +13645,14 @@
   "seen": 1795141822
  },
  "enjoyComputer:wc-44034": {
-  "price": 1836450.0,
+  "price": 1852280.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA658": {
   "price": 1844726.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:5j3bsk": {
   "price": 1074794.0,
@@ -13672,7 +13662,7 @@
  "maximus:912-V536-026": {
   "price": 1103089.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-14165": {
   "price": 1113510.0,
@@ -13695,9 +13685,9 @@
   "seen": 1795141822
  },
  "gamingPoint:65vx35": {
-  "price": 99410.0,
+  "price": 100342.0,
   "alerted": null,
-  "seen": 1795431899
+  "seen": 1795543689
  },
  "diamond:1801": {
   "price": 41700.0,
@@ -13740,34 +13730,34 @@
   "seen": 1795220389
  },
  "compugarden:337943": {
-  "price": 263687.0,
+  "price": 264506.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:226019": {
-  "price": 340111.0,
+  "price": 341208.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:ignhzj": {
   "price": 480260.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "mexx:gfsy6d": {
   "price": 1234059.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA959": {
-  "price": 981813.0,
+  "price": 984881.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:pwoiks": {
-  "price": 992100.0,
+  "price": 995200.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:7874": {
   "price": 292588.0,
@@ -13947,7 +13937,7 @@
  "silverHard:8ij8wq": {
   "price": 986847.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:tllnl8": {
   "price": 1051000.0,
@@ -13962,7 +13952,7 @@
  "gamingCity:5265": {
   "price": 58410.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingCity:19531": {
   "price": 131399.0,
@@ -13972,12 +13962,12 @@
  "armyTech:373201731": {
   "price": 164999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222646": {
   "price": 225135.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-32378": {
   "price": 92250.0,
@@ -14055,19 +14045,19 @@
   "seen": 1795295191
  },
  "goldenTech:x9qvzh": {
-  "price": 398506.0,
+  "price": 399752.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:vliowj": {
-  "price": 403285.0,
+  "price": 404545.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:226243": {
-  "price": 1626888.0,
+  "price": 1631959.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:3a8gp7": {
   "price": 1840900.0,
@@ -14077,7 +14067,7 @@
  "xtpc:nw9lc5": {
   "price": 1889947.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvfu91": {
   "price": 1854510.0,
@@ -14085,24 +14075,24 @@
   "seen": 1795246156
  },
  "enjoyComputer:wc-44035": {
-  "price": 1872620.0,
+  "price": 1889990.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8585": {
   "price": 1874972.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "slotOne:aicdqf": {
-  "price": 1883495.0,
+  "price": 1901152.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "scpHardStore:VGA642": {
   "price": 1878249.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "thegamershop:z2h539": {
   "price": 1874400.0,
@@ -14112,22 +14102,22 @@
  "silverHard:r81hpj": {
   "price": 1887881.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:gea2gm": {
   "price": 1909075.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvf189": {
   "price": 1909075.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:165199021": {
   "price": 1882248.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamingPoint:hat0ah": {
   "price": 62075.0,
@@ -14195,9 +14185,9 @@
   "seen": 1795295191
  },
  "noxie:4xbltf": {
-  "price": 91994.0,
+  "price": 84011.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "liontech:9jeyi": {
   "price": 758000.0,
@@ -14205,9 +14195,9 @@
   "seen": 1795295191
  },
  "noxie:rir2nf": {
-  "price": 140889.0,
+  "price": 128664.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225633": {
   "price": 234458.0,
@@ -14227,17 +14217,17 @@
  "tryHardware:knx5z7": {
   "price": 357899.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8139": {
   "price": 362348.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:37498": {
-  "price": 364705.0,
+  "price": 365838.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:91820": {
   "price": 371821.0,
@@ -14252,7 +14242,7 @@
  "hypergaming:dh6jrm": {
   "price": 1563300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:qhd3hu": {
   "price": 1565863.0,
@@ -14267,17 +14257,17 @@
  "bithard:9evee8": {
   "price": 1895685.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "ignatech:8584": {
   "price": 1909062.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:13277": {
-  "price": 1897999.0,
+  "price": 1939999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:fxztx9": {
   "price": 1903300.0,
@@ -14285,49 +14275,49 @@
   "seen": 1795431899
  },
  "clickGaming:7268": {
-  "price": 1912000.0,
+  "price": 1918000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "xtpc:21d0xz": {
   "price": 1943766.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "fullh4rd:dvtre4": {
   "price": 1943766.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:243374": {
-  "price": 1915640.0,
+  "price": 1921626.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "goldenTech:1mehf": {
-  "price": 1928935.0,
+  "price": 1934963.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225664": {
   "price": 1936241.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gorilaGames:2j7831": {
-  "price": 1945550.0,
+  "price": 1963800.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:nsemfn": {
   "price": 818335.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:ghmu02": {
   "price": 1223346.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:341609": {
   "price": 10674.0,
@@ -14337,47 +14327,47 @@
  "xtpc:bq03wo": {
   "price": 1009671.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:9VN5060EXO-00-G10": {
   "price": 1000227.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:4jv0lp": {
   "price": 1013084.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "enjoyComputer:wc-37225": {
-  "price": 1025530.0,
+  "price": 1031940.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:d68l12": {
-  "price": 1056039.0,
+  "price": 1059339.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:9nwuar": {
   "price": 1107727.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "crosshairGaming:naopmw": {
   "price": 1810637.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:341150": {
-  "price": 1844875.0,
+  "price": 1850604.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "tryHardware:gm07yn": {
   "price": 1849519.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:x96u4u": {
   "price": 1901143.0,
@@ -14490,34 +14480,34 @@
   "seen": 1795246156
  },
  "rminsumos:13275": {
-  "price": 1945999.0,
+  "price": 1987999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "gamerfactory:1nnnw8": {
-  "price": 1957500.0,
+  "price": 1963600.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:2082": {
-  "price": 1960000.0,
+  "price": 1966000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:23967": {
-  "price": 1037000.0,
+  "price": 1040000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:33762": {
-  "price": 1048000.0,
+  "price": 1051000.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:69406": {
-  "price": 1065651.0,
+  "price": 1068960.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "clickGaming:7767": {
   "price": 1868000.0,
@@ -14525,9 +14515,9 @@
   "seen": 1795501461
  },
  "compugarden:36933": {
-  "price": 1876898.0,
+  "price": 1882727.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "silverHard:nfjtp2": {
   "price": 1904286.0,
@@ -14555,14 +14545,14 @@
   "seen": 1795473365
  },
  "maxTecno:24eahu": {
-  "price": 1962192.0,
+  "price": 1968324.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "netGaming:243375": {
-  "price": 1963607.0,
+  "price": 1969744.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "amonpulTeam:l4zuf5": {
   "price": 291612.0,
@@ -14572,17 +14562,17 @@
  "hydraxtreme:clqpzx": {
   "price": 1576300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maximus:912-v537-033": {
   "price": 901740.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "hydraxtreme:xquaq1": {
   "price": 1763500.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "acuarioInsumos:1g6ihl": {
   "price": 983314.0,
@@ -14810,19 +14800,19 @@
   "seen": 1795335145
  },
  "compugarden:rc092i": {
-  "price": 1976525.0,
+  "price": 1982663.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:36965": {
-  "price": 1072767.0,
+  "price": 1076099.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:w23drr": {
-  "price": 1113685.0,
+  "price": 1117144.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "logg:8qfj0d": {
   "price": 2904992.0,
@@ -14940,9 +14930,9 @@
   "seen": 1795473365
  },
  "compugarden:119456": {
-  "price": 1072767.0,
+  "price": 1076099.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "maxTecno:ikffcy": {
   "price": 1204094.0,
@@ -14955,9 +14945,9 @@
   "seen": 1795431899
  },
  "maxTecno:knu34t": {
-  "price": 483659.0,
+  "price": 484897.0,
   "alerted": null,
-  "seen": 1795431899
+  "seen": 1795543689
  },
  "scpHardStore:MOT616": {
   "price": 207002.0,
@@ -14965,9 +14955,9 @@
   "seen": 1795431899
  },
  "gamerfactory:gfmtg4": {
-  "price": 103600.0,
+  "price": 103900.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:223986": {
   "price": 264832.0,
@@ -14982,32 +14972,32 @@
  "black:226587": {
   "price": 331954.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1970098376": {
   "price": 92999.0,
   "alerted": 92999.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:204476": {
   "price": 126894.0,
   "alerted": 126894.0,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225695": {
   "price": 126894.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "shopGamer:y5vb7m": {
   "price": 1856042.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222605": {
-  "price": 291632.0,
+  "price": 292516.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225044": {
   "price": 13212730.0,
@@ -15015,64 +15005,64 @@
   "seen": 1795501461
  },
  "black:225626": {
-  "price": 387502.0,
+  "price": 389923.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225629": {
-  "price": 355192.0,
+  "price": 357425.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:222601": {
-  "price": 438548.0,
+  "price": 441277.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225037": {
-  "price": 153180.0,
+  "price": 153664.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225039": {
-  "price": 133038.0,
+  "price": 133477.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:225041": {
-  "price": 112863.0,
+  "price": 113226.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:226016": {
   "price": 1006244.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1160802651": {
   "price": 1354999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:226432": {
   "price": 111564.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1368517004": {
   "price": 2595999.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:1422033870": {
   "price": 135443.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "armyTech:978505985": {
   "price": 1187887.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "black:223390": {
   "price": 193752.0,
@@ -15207,7 +15197,7 @@
  "bithard:auv0xl": {
   "price": 1978483.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "rminsumos:8219": {
   "price": 1980999.0,
@@ -15217,11 +15207,196 @@
  "shopGamer:rr3583": {
   "price": 1994300.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
  },
  "compugarden:um9mts": {
-  "price": 1117243.0,
+  "price": 1120713.0,
   "alerted": null,
-  "seen": 1795501461
+  "seen": 1795543689
+ },
+ "black:226113": {
+  "price": 138559.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:225927": {
+  "price": 3208039.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:224287": {
+  "price": 12361468.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:224034": {
+  "price": 4920554.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:207173": {
+  "price": 2598812.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:224298": {
+  "price": 3987023.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "hardcore:wc-83986": {
+  "price": 364500.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:197302": {
+  "price": 705166.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:197329": {
+  "price": 942996.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:204696": {
+  "price": 3189574.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:218221": {
+  "price": 175766.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:226174": {
+  "price": 922239.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:226299": {
+  "price": 2456032.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "dinobyte:a8vm9y": {
+  "price": 214000.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "armyTech:1030162688": {
+  "price": 1799999.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:222600": {
+  "price": 464039.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:222606": {
+  "price": 288847.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:224290": {
+  "price": 5986897.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "tryHardware:ns3mu4": {
+  "price": 501809.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "armyTech:1384671193": {
+  "price": 613999.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "armyTech:57502816": {
+  "price": 2799999.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:221676": {
+  "price": 121038.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:222602": {
+  "price": 380090.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:222604": {
+  "price": 304325.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:225337": {
+  "price": 427075.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "hardloots:diayw6": {
+  "price": 410044.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:218219": {
+  "price": 184777.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:225869": {
+  "price": 1848846.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:226171": {
+  "price": 1500908.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "dinobyte:7k3bmn": {
+  "price": 547700.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "enjoyComputer:wc-12899": {
+  "price": 100740.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "hardloots:jcl0zc": {
+  "price": 500295.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "tryHardware:lbfnmt": {
+  "price": 182789.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "acuarioInsumos:gerkas": {
+  "price": 305694.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "black:226761": {
+  "price": 452089.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "hardloots:cr8psg": {
+  "price": 1765949.0,
+  "alerted": null,
+  "seen": 1795543689
+ },
+ "hardloots:7fzoiq": {
+  "price": 1826410.0,
+  "alerted": null,
+  "seen": 1795543689
  }
 }
